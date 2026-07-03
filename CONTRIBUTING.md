@@ -1,6 +1,6 @@
-# Contributing to BentoPDF
+# Contributing to PDF Toolkit
 
-First off, thank you for considering contributing to **BentoPDF**! Your help makes this project better for everyone.
+First off, thank you for considering contributing to **PDF Toolkit**! Your help makes this project better for everyone.
 
 This document outlines how to contribute, report issues, and get involved in the project.
 
@@ -8,7 +8,7 @@ This document outlines how to contribute, report issues, and get involved in the
 
 ## Contributor License Agreement (CLA)
 
-Before we can accept your contributions, you must sign our Contributor License Agreement (CLA). This is required because BentoPDF uses a dual licensing model:
+Before we can accept your contributions, you must sign our Contributor License Agreement (CLA). This is required because PDF Toolkit uses a dual licensing model:
 
 - **AGPL-3.0** for open source use
 - **Commercial license** for proprietary use
@@ -150,4 +150,4 @@ All contributors are expected to follow the Code of Conduct. Be respectful and c
 
 ---
 
-Thank you for helping make **BentoPDF** a better library for everyone!
+Thank you for helping make **PDF Toolkit** a better library for everyone!

@@ -1,6 +1,6 @@
-# BentoPDF Helm Chart
+# PDF Toolkit Helm Chart
 
-Deploys **BentoPDF** as a **single NGINX container** serving the static frontend.
+Deploys **PDF Toolkit** as a **single NGINX container** serving the static frontend.
 
 ## Quickstart
 
@@ -66,7 +66,7 @@ httpRoute:
 
 ### Ports
 
-- **`containerPort`**: container listen port (**8080** for the BentoPDF nginx image)
+- **`containerPort`**: container listen port (**8080** for the PDF Toolkit nginx image)
 - **`service.port`**: Service port exposed in-cluster (default **80**)
 
 ### Environment Variables

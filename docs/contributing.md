@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to BentoPDF! This guide will help you get started.
+Thank you for your interest in contributing to PDF Toolkit! This guide will help you get started.
 
 ## Getting Started
 
@@ -128,7 +128,7 @@ Before your PR can be merged, you'll need to sign our CLA:
 
 ## License
 
-BentoPDF is dual-licensed:
+PDF Toolkit is dual-licensed:
 
 - **AGPL-3.0** for open-source projects where you share your full source code publicly
 - **Commercial License** for proprietary/closed-source applications - [Get Lifetime License for $79](https://ko-fi.com/s/f32ca4cb75)

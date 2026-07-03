@@ -1,6 +1,6 @@
-# BentoPDF Air-Gapped Deployment Bundle
+# PDF Toolkit Air-Gapped Deployment Bundle
 
-**BentoPDF v2.8.5** | Generated on 2026-06-14 10:58:01 UTC
+**PDF Toolkit v2.8.5** | Generated on 2026-06-14 10:58:01 UTC
 
 ## Contents
 
@@ -49,7 +49,7 @@ bash setup.sh
 The setup script will:
 1. Load the Docker image
 2. Extract WASM packages to `./wasm/` (override with `WASM_EXTRACT_DIR`)
-3. Optionally start the BentoPDF container
+3. Optionally start the PDF Toolkit container
 
 ## Manual Setup
 
@@ -111,7 +111,7 @@ Ensure these paths are accessible at the configured URLs:
 | `http://placeholder.local/wasm/ocr/lang-data` | `./wasm/ocr/lang-data/` |
 | `http://placeholder.local/wasm/ocr/fonts` | `./wasm/ocr/fonts/` |
 
-### 4. Run BentoPDF
+### 4. Run PDF Toolkit
 
 ```bash
 docker run -d --name bentopdf -p 3000:8080 --restart unless-stopped bentopdf

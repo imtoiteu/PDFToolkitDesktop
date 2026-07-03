@@ -1,6 +1,6 @@
 # Deploy with Docker / Podman
 
-The easiest way to self-host BentoPDF in a production environment.
+The easiest way to self-host PDF Toolkit in a production environment.
 
 > [!IMPORTANT]
 > **Required Headers for Office File Conversion**
@@ -20,7 +20,7 @@ The easiest way to self-host BentoPDF in a production environment.
 ## Quick Start
 
 > [!TIP]
-> BentoPDF ships in two builds:
+> PDF Toolkit ships in two builds:
 >
 > - **Self-Hosted build** — `ghcr.io/alam00000/bentopdf-simple:latest`. Every PDF tool, **without** the marketing chrome (no hero, FAQ, testimonials, footer). Use this for internal/team/organization deployments. It is **not** a feature-reduced "lite" version.
 > - **Commercial build** — `ghcr.io/alam00000/bentopdf:latest`. The full marketing site, used by bentopdf.com itself and by commercial license holders running public-facing deployments.
@@ -111,9 +111,9 @@ docker run -d -p 3000:8080 bentopdf:custom
 | `VITE_TESSERACT_AVAILABLE_LANGUAGES` | Comma-separated OCR languages exposed in UI                                                                                  | _(empty; show full catalog)_                                   |
 | `VITE_OCR_FONT_BASE_URL`             | OCR text-layer font directory                                                                                                | _(empty; use remote Noto font URLs)_                           |
 | `VITE_DEFAULT_LANGUAGE`              | Default UI language                                                                                                          | `en`                                                           |
-| `VITE_BRAND_NAME`                    | Custom brand name                                                                                                            | `BentoPDF`                                                     |
+| `VITE_BRAND_NAME`                    | Custom brand name                                                                                                            | `PDF Toolkit`                                                     |
 | `VITE_BRAND_LOGO`                    | Logo path relative to `public/`                                                                                              | `images/favicon-no-bg.svg`                                     |
-| `VITE_FOOTER_TEXT`                   | Custom footer/copyright text                                                                                                 | `© 2026 BentoPDF. All rights reserved.`                        |
+| `VITE_FOOTER_TEXT`                   | Custom footer/copyright text                                                                                                 | `© 2026 PDF Toolkit. All rights reserved.`                        |
 | `DISABLE_TOOLS`                      | Comma-separated tool IDs to hide                                                                                             | _(empty; all tools enabled)_                                   |
 
 WASM module URLs are pre-configured with CDN defaults — all advanced features work out of the box. Override these for air-gapped or self-hosted deployments.
@@ -144,7 +144,7 @@ docker run -d -p 3000:8080 bentopdf
 
 ### Custom Branding
 
-Replace the default BentoPDF logo, name, and footer text with your own. Place your logo file in the `public/` folder (or use an existing image), then pass the branding variables at build time:
+Replace the default PDF Toolkit logo, name, and footer text with your own. Place your logo file in the `public/` folder (or use an existing image), then pass the branding variables at build time:
 
 ```bash
 docker build \
@@ -164,7 +164,7 @@ Tool IDs are the page URL without `.html`. For example, if the tool lives at `be
 
 #### Finding Tool IDs
 
-The easiest way: open any tool in BentoPDF and look at the URL. The last part of the path (without `.html`) is the tool ID.
+The easiest way: open any tool in PDF Toolkit and look at the URL. The last part of the path (without `.html`) is the tool ID.
 
 <details>
 <summary>Full list of tool IDs</summary>
@@ -319,7 +319,7 @@ tar xzf tesseract.js-core-7.0.0.tgz -C /var/www/wasm/ocr/core --strip-components
 cp ./tesseract-langdata/*.traineddata.gz /var/www/wasm/ocr/lang-data/
 cp ./ocr-fonts/* /var/www/wasm/ocr/fonts/
 
-# Run BentoPDF
+# Run PDF Toolkit
 docker run -d -p 3000:8080 --restart unless-stopped bentopdf
 ```
 
@@ -329,7 +329,7 @@ Set a variable to empty string to disable that module (users must configure manu
 
 ## Custom Port
 
-By default, BentoPDF listens on port `8080` inside the container. To change this, set the `PORT` environment variable at runtime:
+By default, PDF Toolkit listens on port `8080` inside the container. To change this, set the `PORT` environment variable at runtime:
 
 ```bash
 docker run -p 3000:9090 -e PORT=9090 ghcr.io/alam00000/bentopdf-simple:latest
@@ -343,7 +343,7 @@ This works with both the standard and nonroot Dockerfiles.
 
 ## Custom User ID (PUID/PGID)
 
-For environments that require running as a specific non-root user (NAS devices, Kubernetes with security contexts, organizational policies), BentoPDF provides a separate Dockerfile with LSIO-style PUID/PGID support.
+For environments that require running as a specific non-root user (NAS devices, Kubernetes with security contexts, organizational policies), PDF Toolkit provides a separate Dockerfile with LSIO-style PUID/PGID support.
 
 ### Build and Run
 
@@ -489,7 +489,7 @@ Create a container unit file at `~/.config/containers/systemd/bentopdf.container
 
 ```ini
 [Unit]
-Description=BentoPDF - Privacy-first PDF toolkit
+Description=PDF Toolkit - Privacy-first PDF toolkit
 After=network-online.target
 Wants=network-online.target
 
@@ -533,7 +533,7 @@ journalctl --user -u bentopdf -f
 
 ```ini
 [Unit]
-Description=BentoPDF with health monitoring
+Description=PDF Toolkit with health monitoring
 After=network-online.target
 Wants=network-online.target
 

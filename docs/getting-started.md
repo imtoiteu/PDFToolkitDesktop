@@ -1,16 +1,16 @@
 # Getting Started
 
-Welcome to BentoPDF! This guide will help you get up and running quickly.
+Welcome to PDF Toolkit! This guide will help you get up and running quickly.
 
-## What is BentoPDF?
+## What is PDF Toolkit?
 
-BentoPDF is a free, open-source, privacy-first PDF toolkit that runs **entirely in your browser**. Your files never leave your device—all processing happens locally using WebAssembly (WASM) technology.
+PDF Toolkit is a free, open-source, privacy-first PDF toolkit that runs **entirely in your browser**. Your files never leave your device—all processing happens locally using WebAssembly (WASM) technology.
 
 ## Quick Start
 
 ### Option 1: Use the Hosted Version
 
-Visit [bentopdf.com](https://bentopdf.com) to use BentoPDF instantly—no installation required.
+Visit [bentopdf.com](https://bentopdf.com) to use PDF Toolkit instantly—no installation required.
 
 ### Option 2: Self-Host with Docker
 
@@ -33,7 +33,7 @@ docker compose up -d
 ```
 
 > [!TIP]
-> BentoPDF ships in two builds: the **Self-Hosted build** (`bentopdf-simple`, used above) for internal/team/organization deployments, and the **Commercial build** (`bentopdf:latest`) used by bentopdf.com itself and by commercial license holders running public-facing deployments. Both ship the same PDF tools — the Commercial build adds the bentopdf.com hero, FAQ, testimonials, and footer. If in doubt, use the Self-Hosted build.
+> PDF Toolkit ships in two builds: the **Self-Hosted build** (`bentopdf-simple`, used above) for internal/team/organization deployments, and the **Commercial build** (`bentopdf:latest`) used by bentopdf.com itself and by commercial license holders running public-facing deployments. Both ship the same PDF tools — the Commercial build adds the bentopdf.com hero, FAQ, testimonials, and footer. If in doubt, use the Self-Hosted build.
 
 Then open `http://localhost:3000` in your browser.
 
@@ -67,7 +67,7 @@ npm run dev
 
 ## Browser Support
 
-BentoPDF works best on modern browsers:
+PDF Toolkit works best on modern browsers:
 
 - ✅ Chrome/Edge 90+
 - ✅ Firefox 90+
@@ -76,5 +76,5 @@ BentoPDF works best on modern browsers:
 ## Next Steps
 
 - [Explore all tools](/tools/)
-- [Self-host BentoPDF](/self-hosting/)
+- [Self-host PDF Toolkit](/self-hosting/)
 - [Contribute to the project](/contributing)

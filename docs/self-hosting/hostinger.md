@@ -1,6 +1,6 @@
 # Deploy to Hostinger
 
-[Hostinger](https://hostinger.com) is a popular shared hosting provider. This guide covers deploying BentoPDF to Hostinger's shared hosting.
+[Hostinger](https://hostinger.com) is a popular shared hosting provider. This guide covers deploying PDF Toolkit to Hostinger's shared hosting.
 
 ## Prerequisites
 
@@ -249,7 +249,7 @@ If headers aren't being applied, contact Hostinger support to enable `mod_header
 
 ### 404 Errors on Page Refresh
 
-Make sure the `.html` extension rule and language routes are correctly configured. BentoPDF uses static HTML files, not SPA routing:
+Make sure the `.html` extension rule and language routes are correctly configured. PDF Toolkit uses static HTML files, not SPA routing:
 
 ```apache
 # Language routes serve actual files from language directories

@@ -1,6 +1,6 @@
 # Deploy to AWS S3 + CloudFront
 
-Host BentoPDF on AWS for maximum control and scalability.
+Host PDF Toolkit on AWS for maximum control and scalability.
 
 ## Architecture
 
@@ -88,7 +88,7 @@ Or via CLI:
 ```bash
 aws cloudfront create-response-headers-policy \
   --response-headers-policy-config '{
-    "Name": "BentoPDF-COEP-COOP",
+    "Name": "PDF Toolkit-COEP-COOP",
     "CustomHeadersConfig": {
       "Quantity": 3,
       "Items": [

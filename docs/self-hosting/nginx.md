@@ -1,6 +1,6 @@
 # Deploy with Nginx
 
-Host BentoPDF on your own server using Nginx.
+Host PDF Toolkit on your own server using Nginx.
 
 ## Prerequisites
 

@@ -1,6 +1,6 @@
 # Deploy with Apache
 
-Host BentoPDF using Apache HTTP Server.
+Host PDF Toolkit using Apache HTTP Server.
 
 ## Prerequisites
 

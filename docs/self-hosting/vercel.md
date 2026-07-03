@@ -32,7 +32,7 @@ Add these if needed:
 | Variable                | Description                                                 |
 | ----------------------- | ----------------------------------------------------------- |
 | `SIMPLE_MODE`           | Set to `true` for minimal UI                                |
-| `VITE_BRAND_NAME`       | Custom brand name (replaces "BentoPDF")                     |
+| `VITE_BRAND_NAME`       | Custom brand name (replaces "PDF Toolkit")                     |
 | `VITE_BRAND_LOGO`       | Logo path relative to `public/` (e.g. `images/my-logo.svg`) |
 | `VITE_FOOTER_TEXT`      | Custom footer/copyright text                                |
 | `VITE_DEFAULT_LANGUAGE` | Default UI language (e.g. `fr`, `de`, `es`)                 |
@@ -51,7 +51,7 @@ Click "Deploy" and wait for the build to complete.
 ## Limitations
 
 ::: warning Large Files
-Vercel's serverless functions have a 50MB limit. Since BentoPDF is a static site, this shouldn't affect you, but WASM modules are large (~100MB total). Ensure they're served from the `/public` folder.
+Vercel's serverless functions have a 50MB limit. Since PDF Toolkit is a static site, this shouldn't affect you, but WASM modules are large (~100MB total). Ensure they're served from the `/public` folder.
 :::
 
 ## Troubleshooting

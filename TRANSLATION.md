@@ -1,6 +1,6 @@
-# 🌍 Translation Guide for BentoPDF
+# 🌍 Translation Guide for PDF Toolkit
 
-This guide will help you add new languages or improve existing translations for BentoPDF.
+This guide will help you add new languages or improve existing translations for PDF Toolkit.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This guide will help you add new languages or improve existing translations for 
 
 ## Overview
 
-BentoPDF uses **i18next** for internationalization (i18n). Currently supported languages:
+PDF Toolkit uses **i18next** for internationalization (i18n). Currently supported languages:
 
 - **English** (`en`) - Default
 - **Belarusian** (`be`)
@@ -50,7 +50,7 @@ The app automatically detects the language from the URL path:
 
 ### Architecture
 
-BentoPDF uses a **static pre-rendering** approach for SEO-optimized i18n:
+PDF Toolkit uses a **static pre-rendering** approach for SEO-optimized i18n:
 
 1. **Build time**: `scripts/generate-i18n-pages.mjs` generates localized HTML files in `dist/{lang}/`
 2. **Dev/Preview**: `languageRouterPlugin` in `vite.config.ts` handles URL rewriting
@@ -380,7 +380,7 @@ Test in different browsers:
 
 ### 1. Keep the Tone Consistent
 
-BentoPDF is **friendly, clear, and professional**. Match this tone in your translations.
+PDF Toolkit is **friendly, clear, and professional**. Match this tone in your translations.
 
 ✅ **Good:**
 
@@ -400,7 +400,7 @@ Some strings contain HTML or special characters:
 
 ```json
 {
-  "faq.analytics.answer": "We care about your privacy. BentoPDF does not track personal information. We use <a href=\"https://simpleanalytics.com\" class=\"text-indigo-400 hover:underline\" target=\"_blank\" rel=\"noopener noreferrer\">Simple Analytics</a> solely to see anonymous visit counts."
+  "faq.analytics.answer": "We care about your privacy. PDF Toolkit does not track personal information. We use <a href=\"https://simpleanalytics.com\" class=\"text-indigo-400 hover:underline\" target=\"_blank\" rel=\"noopener noreferrer\">Simple Analytics</a> solely to see anonymous visit counts."
 }
 ```
 
@@ -408,7 +408,7 @@ When translating, **keep the HTML tags intact**:
 
 ```json
 {
-  "faq.analytics.answer": "Wir schätzen Ihre Privatsphäre. BentoPDF verfolgt keine persönlichen Informationen. Wir verwenden <a href=\"https://simpleanalytics.com\" class=\"text-indigo-400 hover:underline\" target=\"_blank\" rel=\"noopener noreferrer\">Simple Analytics</a> ausschließlich, um anonyme Besucherzahlen zu sehen."
+  "faq.analytics.answer": "Wir schätzen Ihre Privatsphäre. PDF Toolkit verfolgt keine persönlichen Informationen. Wir verwenden <a href=\"https://simpleanalytics.com\" class=\"text-indigo-400 hover:underline\" target=\"_blank\" rel=\"noopener noreferrer\">Simple Analytics</a> ausschließlich, um anonyme Besucherzahlen zu sehen."
 }
 ```
 
@@ -429,7 +429,7 @@ Example:
 
 Keep these as-is:
 
-- BentoPDF
+- PDF Toolkit
 - PDF
 - GitHub
 - Discord
@@ -587,7 +587,7 @@ Once you've completed a translation:
    - Screenshots showing the translation in action
    - Confirmation that you've tested all pages
 
-Thank you for contributing to BentoPDF! 🎉
+Thank you for contributing to PDF Toolkit! 🎉
 
 ---
 

@@ -1,6 +1,6 @@
-# Simple Mode for BentoPDF (the Self-Hosted build)
+# Simple Mode for PDF Toolkit (the Self-Hosted build)
 
-Simple Mode is what powers the **Self-Hosted build** of BentoPDF (`bentopdf-simple`). It is **functionally identical** to the Commercial build that powers bentopdf.com — every PDF tool is present and behaves the same. It just hides the marketing chrome (hero, FAQ, testimonials, footer) that only makes sense on the public bentopdf.com site or on a commercial public-facing deployment.
+Simple Mode is what powers the **Self-Hosted build** of PDF Toolkit (`bentopdf-simple`). It is **functionally identical** to the Commercial build that powers bentopdf.com — every PDF tool is present and behaves the same. It just hides the marketing chrome (hero, FAQ, testimonials, footer) that only makes sense on the public bentopdf.com site or on a commercial public-facing deployment.
 
 > **Simple Mode is not a feature-reduced "lite" version.** Every PDF tool — merge, split, edit, sign, OCR, Office conversion, every other tool — works identically in both builds. The only difference is the marketing UI around the tools.
 
@@ -219,7 +219,7 @@ Create `~/.config/containers/systemd/bentopdf-simple.container`:
 
 ```ini
 [Unit]
-Description=BentoPDF Simple Mode
+Description=PDF Toolkit Simple Mode
 After=network-online.target
 
 [Container]

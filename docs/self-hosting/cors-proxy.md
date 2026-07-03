@@ -2,7 +2,7 @@
 
 The digital signature tool uses a CORS proxy to fetch issuer certificates from external Certificate Authorities (CAs). This is necessary because many CA servers don't include CORS headers in their responses, which prevents direct browser-based fetching.
 
-Additionally, many CA servers serve certificates over plain HTTP. When your BentoPDF instance is hosted over HTTPS, browsers block these HTTP requests (mixed content policy). The CORS proxy resolves both issues by routing requests through an HTTPS endpoint with proper headers.
+Additionally, many CA servers serve certificates over plain HTTP. When your PDF Toolkit instance is hosted over HTTPS, browsers block these HTTP requests (mixed content policy). The CORS proxy resolves both issues by routing requests through an HTTPS endpoint with proper headers.
 
 ## How It Works
 
@@ -15,7 +15,7 @@ When signing a PDF with a certificate:
 
 ## Self-Hosting the CORS Proxy
 
-If you're self-hosting BentoPDF, you'll need to deploy your own CORS proxy for digital signatures to work with certificates that require chain fetching.
+If you're self-hosting PDF Toolkit, you'll need to deploy your own CORS proxy for digital signatures to work with certificates that require chain fetching.
 
 ### Option 1: Cloudflare Workers (Recommended)
 
@@ -31,7 +31,7 @@ If you're self-hosting BentoPDF, you'll need to deploy your own CORS proxy for d
    wrangler login
    ```
 
-3. **Clone BentoPDF and update allowed origins**:
+3. **Clone PDF Toolkit and update allowed origins**:
 
    ```bash
    git clone https://github.com/alam00000/bentopdf.git
@@ -59,7 +59,7 @@ If you're self-hosting BentoPDF, you'll need to deploy your own CORS proxy for d
 
    Note your worker URL (e.g., `https://bentopdf-cors-proxy.your-subdomain.workers.dev`).
 
-5. **Rebuild BentoPDF with the proxy URL**:
+5. **Rebuild PDF Toolkit with the proxy URL**:
 
    If using Docker:
 

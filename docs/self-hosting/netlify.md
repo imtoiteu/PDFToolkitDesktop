@@ -13,7 +13,7 @@
 1. Log in to [Netlify](https://app.netlify.com)
 2. Click "Add new site" → "Import an existing project"
 3. Connect your GitHub account
-4. Select your BentoPDF fork
+4. Select your PDF Toolkit fork
 
 ### Step 2: Configure Build Settings
 
@@ -90,7 +90,7 @@ Set these in Site settings → Environment variables:
 | Variable                | Description                                                 |
 | ----------------------- | ----------------------------------------------------------- |
 | `SIMPLE_MODE`           | Set to `true` for minimal build                             |
-| `VITE_BRAND_NAME`       | Custom brand name (replaces "BentoPDF")                     |
+| `VITE_BRAND_NAME`       | Custom brand name (replaces "PDF Toolkit")                     |
 | `VITE_BRAND_LOGO`       | Logo path relative to `public/` (e.g. `images/my-logo.svg`) |
 | `VITE_FOOTER_TEXT`      | Custom footer/copyright text                                |
 | `VITE_DEFAULT_LANGUAGE` | Default UI language (e.g. `fr`, `de`, `es`)                 |

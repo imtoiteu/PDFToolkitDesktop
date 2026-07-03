@@ -1,13 +1,13 @@
 # Self-Hosting Guide
 
-BentoPDF can be self-hosted on your own infrastructure. This guide covers various deployment options.
+PDF Toolkit can be self-hosted on your own infrastructure. This guide covers various deployment options.
 
 ## Quick Start with Docker / Podman
 
-The fastest way to self-host BentoPDF:
+The fastest way to self-host PDF Toolkit:
 
 > [!TIP]
-> BentoPDF ships in two builds:
+> PDF Toolkit ships in two builds:
 >
 > - **Self-Hosted build** — `ghcr.io/alam00000/bentopdf-simple:latest`. Every PDF tool, **without** the marketing chrome (no hero, FAQ, testimonials, footer). Use this for internal/team/organization deployments. It is **not** a feature-reduced "lite" version.
 > - **Commercial build** — `ghcr.io/alam00000/bentopdf:latest`. The full marketing site, used by bentopdf.com itself and by commercial license holders running public-facing deployments.
@@ -17,7 +17,7 @@ The fastest way to self-host BentoPDF:
 > [!IMPORTANT]
 > Office file conversion requires `SharedArrayBuffer`, which means the app must be both cross-origin isolated and served from a secure context. The official image already sends the required COOP/COEP headers, but browsers still disable `SharedArrayBuffer` on plain HTTP local-network origins such as `http://192.168.x.x`.
 >
-> Use `http://localhost` only for same-device testing. If users access BentoPDF through a LAN IP or hostname, terminate it with HTTPS.
+> Use `http://localhost` only for same-device testing. If users access PDF Toolkit through a LAN IP or hostname, terminate it with HTTPS.
 
 ```bash
 # Docker
@@ -49,7 +49,7 @@ podman-compose up -d
 
 ## Podman Quadlet (Linux Systemd)
 
-Run BentoPDF as a systemd service. Create `~/.config/containers/systemd/bentopdf.container`:
+Run PDF Toolkit as a systemd service. Create `~/.config/containers/systemd/bentopdf.container`:
 
 ```ini
 [Container]
@@ -102,7 +102,7 @@ The Self-Hosted build (the `bentopdf-simple` image, also called Simple Mode) is 
 
 The Commercial build (`ghcr.io/alam00000/bentopdf:latest`) is what powers bentopdf.com itself and is used by commercial license holders running public-facing deployments — it adds the hero, FAQ, testimonials, and footer that wouldn't make sense on an internal tool.
 
-If you're self-hosting BentoPDF for your team, organization, or as an internal tool, pull the Self-Hosted build:
+If you're self-hosting PDF Toolkit for your team, organization, or as an internal tool, pull the Self-Hosted build:
 
 ```bash
 # Use the pre-built image (recommended)
@@ -116,13 +116,13 @@ See [SIMPLE_MODE.md](https://github.com/alam00000/bentopdf/blob/main/SIMPLE_MODE
 
 ### Commercial build (public-facing deployments with your own brand)
 
-The Commercial build (the `bentopdf` image — no `-simple` suffix) is what powers bentopdf.com itself. It includes the full marketing site (hero, features, FAQ, testimonials, footer) on top of every PDF tool. Use this build when you want to **deploy BentoPDF as a public-facing PDF service under your own brand** — for example:
+The Commercial build (the `bentopdf` image — no `-simple` suffix) is what powers bentopdf.com itself. It includes the full marketing site (hero, features, FAQ, testimonials, footer) on top of every PDF tool. Use this build when you want to **deploy PDF Toolkit as a public-facing PDF service under your own brand** — for example:
 
-- You're running BentoPDF as a hosted SaaS for end-users on your own domain
+- You're running PDF Toolkit as a hosted SaaS for end-users on your own domain
 - You want the landing-page experience (marketing sections + tools), not just the bare tool surface
-- You're a commercial license holder embedding BentoPDF into a commercial product
+- You're a commercial license holder embedding PDF Toolkit into a commercial product
 
-**Run it as-is** (BentoPDF branding — useful to preview the build):
+**Run it as-is** (PDF Toolkit branding — useful to preview the build):
 
 ```bash
 docker run -p 3000:8080 ghcr.io/alam00000/bentopdf:latest
@@ -143,7 +143,7 @@ docker run -p 3000:8080 acmepdf
 Every other build-time option (`BASE_URL`, `VITE_DEFAULT_LANGUAGE`, `DISABLE_TOOLS`, WASM URL overrides, etc.) works the same way it does on the Self-Hosted build.
 
 ::: warning Licensing
-Running the Commercial build is allowed under either of BentoPDF's two license options:
+Running the Commercial build is allowed under either of PDF Toolkit's two license options:
 
 - **AGPL-3.0** (free) — allowed if your deployment publishes its full source code under AGPL, including any branding modifications and surrounding business logic.
 - **Commercial license** ($79 lifetime) — required for closed-source / proprietary deployments where you don't open-source your branding fork or business code.
@@ -161,13 +161,13 @@ BASE_URL=/pdf-tools/ npm run build
 
 ### Custom Branding
 
-Replace the default BentoPDF logo, name, and footer text with your own at build time:
+Replace the default PDF Toolkit logo, name, and footer text with your own at build time:
 
 | Variable           | Description                           | Default                                 |
 | ------------------ | ------------------------------------- | --------------------------------------- |
-| `VITE_BRAND_NAME`  | Brand name shown in header and footer | `BentoPDF`                              |
+| `VITE_BRAND_NAME`  | Brand name shown in header and footer | `PDF Toolkit`                              |
 | `VITE_BRAND_LOGO`  | Logo path relative to `public/`       | `images/favicon-no-bg.svg`              |
-| `VITE_FOOTER_TEXT` | Custom footer/copyright text          | `© 2026 BentoPDF. All rights reserved.` |
+| `VITE_FOOTER_TEXT` | Custom footer/copyright text          | `© 2026 PDF Toolkit. All rights reserved.` |
 
 ```bash
 # Place your logo in public/, then build
@@ -265,7 +265,7 @@ The `00 61 73 6d / 1f 8b 08 08` mismatch is a separate sub-symptom: the pre-comp
 - [Kubernetes →](/self-hosting/kubernetes#ensuring-the-sharedarraybuffer-headers-still-work-ingress-gateway)
 - **Docker**: handled automatically by the bundled nginx config — no action needed.
 
-**Verify**: open DevTools Console on any BentoPDF page and run:
+**Verify**: open DevTools Console on any PDF Toolkit page and run:
 
 ```js
 console.log(window.crossOriginIsolated); // should be true
@@ -294,7 +294,7 @@ If the page is HTTPS or `http://localhost` AND both COEP/COOP headers are presen
 
 ## WASM Configuration (AGPL Components)
 
-BentoPDF **does not bundle** AGPL-licensed processing libraries in its source code, but **pre-configures CDN URLs** so all features work out of the box — no manual setup needed.
+PDF Toolkit **does not bundle** AGPL-licensed processing libraries in its source code, but **pre-configures CDN URLs** so all features work out of the box — no manual setup needed.
 
 ::: tip Zero-Config by Default
 As of v2.0.0, WASM modules are pre-configured to load from jsDelivr CDN via environment variables. All advanced features work immediately without any user configuration.
@@ -417,7 +417,7 @@ The setup script loads the Docker image, extracts WASM files, and optionally sta
 The interactive prompt also accepts `list` to print the full supported Tesseract code list and `search <term>` to find matches such as `search german` or `search chi`.
 
 ::: warning Same-Origin Requirement
-WASM files must be served from the **same origin** as the BentoPDF app. Web Workers use `importScripts()` which cannot load scripts cross-origin. For example, if BentoPDF runs at `https://internal.example.com`, the WASM base URL should also be `https://internal.example.com/wasm`.
+WASM files must be served from the **same origin** as the PDF Toolkit app. Web Workers use `importScripts()` which cannot load scripts cross-origin. For example, if PDF Toolkit runs at `https://internal.example.com`, the WASM base URL should also be `https://internal.example.com/wasm`.
 :::
 
 #### Manual Steps
@@ -490,7 +490,7 @@ tar xzf tesseract.js-core-7.0.0.tgz -C ./wasm/ocr/core --strip-components=1
 cp ./tesseract-langdata/*.traineddata.gz ./wasm/ocr/lang-data/
 cp ./ocr-fonts/* ./wasm/ocr/fonts/
 
-# Run BentoPDF
+# Run PDF Toolkit
 docker run -d -p 3000:8080 --restart unless-stopped bentopdf
 ```
 
@@ -521,7 +521,7 @@ If you need to serve AGPL WASM files with proper CORS headers, you can deploy a 
 This separation ensures:
 
 - Clear legal compliance for commercial users
-- BentoPDF's core remains under its dual-license (AGPL-3.0 / Commercial)
+- PDF Toolkit's core remains under its dual-license (AGPL-3.0 / Commercial)
 - WASM files are loaded at runtime, not bundled in the source
   :::
 
@@ -534,5 +534,5 @@ This separation ensures:
 | CPU         | Any modern processor                |
 
 ::: tip
-BentoPDF is a static site—there's no database or backend server required!
+PDF Toolkit is a static site—there's no database or backend server required!
 :::

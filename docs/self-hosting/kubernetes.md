@@ -10,13 +10,13 @@ Kubernetes may be overkill for a static site, but it can be a great fit if you a
 > - `Cross-Origin-Opener-Policy: same-origin`
 > - `Cross-Origin-Embedder-Policy: require-corp`
 >
-> The official BentoPDF nginx images include these headers. In Kubernetes, **Ingress/Gateway controllers are also reverse proxies**, so ensure these headers are preserved (or add them at the edge).
+> The official PDF Toolkit nginx images include these headers. In Kubernetes, **Ingress/Gateway controllers are also reverse proxies**, so ensure these headers are preserved (or add them at the edge).
 
 ## Prereqs
 
 - Kubernetes cluster
 - Helm v3
-- A BentoPDF nginx image (e.g. `ghcr.io/alam00000/bentopdf:<tag>`) that serves on **port 8080**
+- A PDF Toolkit nginx image (e.g. `ghcr.io/alam00000/bentopdf:<tag>`) that serves on **port 8080**
 
 ## Deploy with Helm
 
@@ -96,7 +96,7 @@ httpRoute:
 
 ### What "should" happen
 
-BentoPDF’s nginx config sets the required response headers. Most Ingress/Gateway controllers **pass upstream response headers through unchanged**.
+PDF Toolkit’s nginx config sets the required response headers. Most Ingress/Gateway controllers **pass upstream response headers through unchanged**.
 
 ### What can break it
 
@@ -132,9 +132,9 @@ ingress:
 
 ## `.mjs` MIME-type errors (Sign PDF / Form Filler iframe blank)
 
-If the browser console shows `Failed to load module script: ... non-JavaScript MIME type "application/octet-stream"` on a `.mjs` request, an Ingress/Gateway controller in front of the BentoPDF nginx is replacing the upstream `Content-Type` header with `application/octet-stream`.
+If the browser console shows `Failed to load module script: ... non-JavaScript MIME type "application/octet-stream"` on a `.mjs` request, an Ingress/Gateway controller in front of the PDF Toolkit nginx is replacing the upstream `Content-Type` header with `application/octet-stream`.
 
-The BentoPDF image's nginx already serves `.mjs` as `application/javascript`. The fix is to stop the controller from stripping/replacing it. For nginx-ingress:
+The PDF Toolkit image's nginx already serves `.mjs` as `application/javascript`. The fix is to stop the controller from stripping/replacing it. For nginx-ingress:
 
 ```yaml
 ingress:
