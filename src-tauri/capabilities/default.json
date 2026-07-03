@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Capabilities for the main window. The native save dialog is driven entirely from Rust (see save_file in lib.rs), so the webview needs no dialog/fs permissions of its own.",
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}

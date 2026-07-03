@@ -450,8 +450,12 @@ function rewriteHtmlPathsPlugin(): Plugin {
   };
 }
 
-export default defineConfig(() => {
+export default defineConfig(({ mode }) => {
   const USE_CDN = process.env.VITE_USE_CDN === 'true';
+  // Desktop (Tauri) build: assets are served raw by the native shell, so the
+  // brotli/gzip pre-compression only wastes build time and doubles the bundle
+  // size with unused .br/.gz files. Web/LAN builds are unaffected.
+  const isTauri = mode === 'tauri';
 
   if (USE_CDN) {
     console.log('[Vite] Using CDN for WASM files (with local fallback)');
@@ -496,27 +500,32 @@ export default defineConfig(() => {
       viteStaticCopy({
         targets: staticCopyTargets,
       }),
-      viteCompression({
-        algorithm: 'brotliCompress',
-        ext: '.br',
-        threshold: 1024,
-        compressionOptions: {
-          params: {
-            [zlibConstants.BROTLI_PARAM_QUALITY]: 11,
-            [zlibConstants.BROTLI_PARAM_MODE]: zlibConstants.BROTLI_MODE_TEXT,
-          },
-        },
-        deleteOriginFile: false,
-      }),
-      viteCompression({
-        algorithm: 'gzip',
-        ext: '.gz',
-        threshold: 1024,
-        compressionOptions: {
-          level: 9,
-        },
-        deleteOriginFile: false,
-      }),
+      ...(isTauri
+        ? []
+        : [
+            viteCompression({
+              algorithm: 'brotliCompress',
+              ext: '.br',
+              threshold: 1024,
+              compressionOptions: {
+                params: {
+                  [zlibConstants.BROTLI_PARAM_QUALITY]: 11,
+                  [zlibConstants.BROTLI_PARAM_MODE]:
+                    zlibConstants.BROTLI_MODE_TEXT,
+                },
+              },
+              deleteOriginFile: false,
+            }),
+            viteCompression({
+              algorithm: 'gzip',
+              ext: '.gz',
+              threshold: 1024,
+              compressionOptions: {
+                level: 9,
+              },
+              deleteOriginFile: false,
+            }),
+          ]),
     ],
     define: {
       __SIMPLE_MODE__: JSON.stringify(process.env.SIMPLE_MODE === 'true'),

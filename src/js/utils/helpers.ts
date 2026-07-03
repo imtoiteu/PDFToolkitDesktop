@@ -71,7 +71,13 @@ export const formatBytes = (bytes: number, decimals = 1) => {
   return parseFloat((bytes / Math.pow(k, i)).toFixed(dm)) + ' ' + sizes[i];
 };
 
-export const downloadFile = (blob: Blob, filename: string): void => {
+// True when running inside the Tauri desktop shell (not a normal browser/LAN
+// tab). Tauri injects these globals into every window it owns.
+const isTauriRuntime = (): boolean =>
+  typeof window !== 'undefined' &&
+  ('__TAURI_INTERNALS__' in window || '__TAURI__' in window);
+
+const browserDownload = (blob: Blob, filename: string): void => {
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
   a.href = url;
@@ -80,6 +86,28 @@ export const downloadFile = (blob: Blob, filename: string): void => {
   a.click();
   document.body.removeChild(a);
   URL.revokeObjectURL(url);
+};
+
+// Desktop-only: hand the bytes to Rust, which shows a native "Save As" dialog
+// and writes wherever the user chooses. Falls back to the browser download if
+// anything goes wrong so a save is never silently lost.
+const tauriSaveFile = async (blob: Blob, filename: string): Promise<void> => {
+  try {
+    const { invoke } = await import('@tauri-apps/api/core');
+    const bytes = new Uint8Array(await blob.arrayBuffer());
+    await invoke('save_file', { filename, bytes });
+  } catch (err) {
+    console.error('[Tauri] native save failed, using browser download', err);
+    browserDownload(blob, filename);
+  }
+};
+
+export const downloadFile = (blob: Blob, filename: string): void => {
+  if (isTauriRuntime()) {
+    void tauriSaveFile(blob, filename);
+    return;
+  }
+  browserDownload(blob, filename);
 };
 
 export const readFileAsArrayBuffer = (

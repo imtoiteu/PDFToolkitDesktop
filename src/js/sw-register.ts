@@ -6,8 +6,13 @@
  * conflicts with Vite's HMR (Hot Module Replacement)
  */
 
-// Skip service worker registration in development mode
+// Skip service worker registration in development mode, and in the Tauri
+// desktop shell (the app is already fully local there; a SW only adds a
+// caching layer that can shadow the bundled assets).
+const isTauri =
+  '__TAURI_INTERNALS__' in window || '__TAURI__' in window;
 const isDevelopment =
+  isTauri ||
   window.location.hostname === 'localhost' ||
   window.location.hostname === '127.0.0.1' ||
   window.location.port !== '';
