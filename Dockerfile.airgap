@@ -1,0 +1,12 @@
+# MSA PDF Toolkit — air-gap wrapper image
+# Bakes the self-hosted WASM assets (downloaded + extracted into ./wasm) into the
+# app's nginx html root so everything is served same-origin at /wasm. Produces a
+# single self-contained image that runs fully offline.
+#
+# Build the base image first (see scripts/build-msa-airgap.sh), then:
+#   docker build -f Dockerfile.airgap -t msa-pdf:1.0 .
+ARG BASE_IMAGE=msa-pdf-base:1.0
+FROM ${BASE_IMAGE}
+
+# nginx-unprivileged serves /usr/share/nginx/html; copy WASM as the nginx user.
+COPY --chown=nginx:nginx ./wasm /usr/share/nginx/html/wasm

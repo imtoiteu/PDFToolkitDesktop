@@ -1,0 +1,23 @@
+{{#if simpleMode}} {{> footer-simple}} {{else}}
+<footer class="mt-16 border-t border-gray-800 py-4">
+  <div class="container mx-auto px-4">
+    <p
+      class="flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-center text-xs text-gray-500"
+    >
+      <span id="footer-brand" class="font-semibold text-gray-400"
+        >{{#if brandName}}{{brandName}}{{else}}PDF Toolkit{{/if}}</span
+      >
+      <span class="text-gray-600" aria-hidden="true">·</span>
+      <span id="footer-copyright">
+        {{#if footerText}}{{footerText}}{{else}}Copyright &copy; Tracy Tran. All
+        rights reserved.{{/if}}
+      </span>
+      <span class="text-gray-600" aria-hidden="true">·</span>
+      <span>
+        <span data-i18n="footer.version">Version</span>
+        <span id="app-version">{{appVersion}}</span>
+      </span>
+    </p>
+  </div>
+</footer>
+{{/if}}
