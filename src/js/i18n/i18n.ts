@@ -236,10 +236,18 @@ export const applyTranslations = (): void => {
 };
 
 export const rewriteLinks = (): void => {
-  // In dev (and local/Tauri contexts) we use in-place language switching and
-  // keep plain, un-prefixed links so navigation works without pre-generated
-  // per-language pages. The multi-page prefixing still applies in production.
-  if (import.meta.env.DEV) return;
+  // In dev, and in the Tauri desktop build, we use in-place language switching
+  // and keep plain, un-prefixed links so navigation works without pre-generated
+  // per-language pages. The multi-page prefixing (/<lang>/page.html) only makes
+  // sense for the web production build, which generates those pages via
+  // scripts/generate-i18n-pages.mjs. The Tauri bundle ships none, so prefixing
+  // there would point every link at a non-existent page (e.g. /vi/merge-pdf.html),
+  // which is why first-load tool cards appeared to "do nothing".
+  const isTauri =
+    import.meta.env.MODE === 'tauri' ||
+    (typeof window !== 'undefined' &&
+      ('__TAURI_INTERNALS__' in window || '__TAURI__' in window));
+  if (import.meta.env.DEV || isTauri) return;
 
   const currentLang = getLanguageFromUrl();
   if (currentLang === 'en') return;
