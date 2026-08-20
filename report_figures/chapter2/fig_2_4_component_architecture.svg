@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="1622" viewBox="0 0 1180 1622" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1180" height="1622" fill="#FFFFFF"/>
+<rect x="40" y="75.46511627906978" width="330" height="471.6569767441861" rx="10" fill="#EEF2FF" fill-opacity="0.45" stroke="#4F46E5" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="52" y="104.1046511627907" font-size="22.639534883720934" font-weight="700" fill="#1E1B4B">Điểm vào và khung giao diện</text>
+<rect x="410" y="75.46511627906978" width="340" height="471.6569767441861" rx="10" fill="#E0F2FE" fill-opacity="0.45" stroke="#0284C7" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="422" y="104.1046511627907" font-size="22.639534883720934" font-weight="700" fill="#0C4A6E">Cấu hình và quốc tế hoá</text>
+<rect x="790" y="75.46511627906978" width="350" height="471.6569767441861" rx="10" fill="#FEFCE8" fill-opacity="0.45" stroke="#CA8A04" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="802" y="104.1046511627907" font-size="22.639534883720934" font-weight="700" fill="#713F12">Trạng thái và nhập liệu</text>
+<rect x="40" y="622.5872093023256" width="710" height="490.52325581395354" rx="10" fill="#ECFDF5" fill-opacity="0.45" stroke="#059669" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="52" y="651.2267441860465" font-size="22.639534883720934" font-weight="700" fill="#064E3B">Tầng nghiệp vụ</text>
+<rect x="790" y="622.5872093023256" width="350" height="490.52325581395354" rx="10" fill="#E0F2FE" fill-opacity="0.45" stroke="#0284C7" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="802" y="651.2267441860465" font-size="22.639534883720934" font-weight="700" fill="#0C4A6E">Tiện ích dùng chung (43 mô-đun)</text>
+<rect x="40" y="1188.575581395349" width="1100" height="358.45930232558146" rx="10" fill="#FFF7ED" fill-opacity="0.45" stroke="#EA580C" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="52" y="1217.21511627907" font-size="22.639534883720934" font-weight="700" fill="#7C2D12">Động cơ xử lý và tài nguyên cục bộ</text>
+<path d="M 205.0 275.4 L 205.0 298.1" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 205.0 403.7 L 205.0 426.4" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 350.0 350.9 L 430.0 222.6" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 350.0 350.9 L 390.0 350.9 L 390.0 473.5 L 430.0 484.2" fill="none" stroke="#0284C7" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 205.0 275.4 L 120.0 641.5 L 220.0 716.9" fill="none" stroke="#059669" stroke-width="1.6" marker-end="url(#arwg)"/>
+<path d="M 965.0 298.1 L 965.0 275.4" fill="none" stroke="#CA8A04" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 810.0 222.6 L 790.0 222.6 L 790.0 603.7 L 220.0 603.7 L 220.0 716.9" fill="none" stroke="#CA8A04" stroke-width="1.6" marker-end="url(#arw)"/>
+<rect x="566.5" y="574.9" width="165.0" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="649.0" y="593.7" font-size="18.866279069767444" text-anchor="middle" fill="#334155">trạng thái phiên</text>
+<path d="M 380.0 774.7 L 760.0 773.5 L 760.0 879.2 L 810.0 879.2" fill="none" stroke="#059669" stroke-width="1.6" marker-end="url(#arwg)"/>
+<path d="M 380.0 774.7 L 752.0 773.5 L 752.0 992.4 L 810.0 1001.1" fill="none" stroke="#059669" stroke-width="1.6" marker-end="url(#arwg)"/>
+<path d="M 400.0 773.5 L 380.0 774.7" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#arw)"/>
+<path d="M 380.0 774.7 L 400.0 773.5 L 400.0 924.4" fill="none" stroke="#059669" stroke-width="1.6" marker-end="url(#arwg)"/>
+<path d="M 965.0 928.2 L 965.0 1150.8 L 447.0 1150.8 L 444.5 1282.9" fill="none" stroke="#EA580C" stroke-width="1.6" marker-end="url(#arwo)"/>
+<rect x="703.1" y="1122.0" width="96.3" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="751.3" y="1140.8" font-size="18.866279069767444" text-anchor="middle" fill="#334155">qpdf.wasm</text>
+<path d="M 965.0 815.0 L 1010.0 1188.6 L 602.0 1188.6 L 599.5 1282.9" fill="none" stroke="#EA580C" stroke-width="1.6" marker-end="url(#arwo)"/>
+<rect x="893.9" y="1138.8" width="106.1" height="45.7" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="946.9" y="1157.7" font-size="18.866279069767444" text-anchor="middle" fill="#334155">URL mô-đun</text>
+<text x="946.9" y="1178.6" font-size="18.866279069767444" text-anchor="middle" fill="#334155">WASM</text>
+<path d="M 965.0 815.0 L 1035.0 1216.9 L 757.0 1216.9 L 754.5 1282.9" fill="none" stroke="#EA580C" stroke-width="1.6" marker-end="url(#arwo)"/>
+<path d="M 965.0 815.0 L 1060.0 1245.2 L 912.0 1245.2 L 909.5 1282.9" fill="none" stroke="#EA580C" stroke-width="1.6" marker-end="url(#arwo)"/>
+<path d="M 220.0 832.5 L 140.0 1245.2 L 134.5 1282.9" fill="none" stroke="#EA580C" stroke-width="1.6" marker-end="url(#arwo)"/>
+<rect x="60" y="169.796511627907" width="290" height="105.65116279069768" rx="15.093023255813955" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="205.0" y="207.3" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#1E1B4B">Trang HTML công cụ</text>
+<text x="205.0" y="234.9" font-size="20.639534883720934" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">src/pages/*.html +</text>
+<text x="205.0" y="258.6" font-size="20.639534883720934" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">partials</text>
+<rect x="60" y="298.0872093023256" width="290" height="105.65116279069768" rx="15.093023255813955" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="205.0" y="335.6" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#1E1B4B">main.ts</text>
+<text x="205.0" y="363.2" font-size="20.639534883720934" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">sidebar, tìm kiếm,</text>
+<text x="205.0" y="386.9" font-size="20.639534883720934" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">thẻ công cụ</text>
+<rect x="60" y="426.3779069767442" width="290" height="115.55813953488374" rx="15.093023255813955" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="205.0" y="456.0" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#1E1B4B">ui.ts /</text>
+<text x="205.0" y="481.7" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#1E1B4B">mobileMenu.ts</text>
+<text x="205.0" y="509.3" font-size="20.639534883720934" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">loader, alert,</text>
+<text x="205.0" y="532.9" font-size="20.639534883720934" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">thumbnail</text>
+<rect x="430" y="169.796511627907" width="300" height="105.65116279069768" rx="15.093023255813955" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="580.0" y="207.3" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#0C4A6E">config/tools.ts</text>
+<text x="580.0" y="234.9" font-size="20.639534883720934" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">7 nhóm, 127 mục công</text>
+<text x="580.0" y="258.6" font-size="20.639534883720934" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">cụ</text>
+<rect x="430" y="298.0872093023256" width="300" height="105.65116279069768" rx="15.093023255813955" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="580.0" y="347.4" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#0C4A6E">config/pdf-tools.ts</text>
+<text x="580.0" y="375.1" font-size="20.639534883720934" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">phân loại kiểu nạp tệp</text>
+<rect x="430" y="426.3779069767442" width="300" height="115.55813953488374" rx="15.093023255813955" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="580.0" y="456.0" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#0C4A6E">i18n/*  +</text>
+<text x="580.0" y="481.7" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#0C4A6E">public/locales</text>
+<text x="580.0" y="509.3" font-size="20.639534883720934" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">21 ngôn ngữ, 1.162</text>
+<text x="580.0" y="532.9" font-size="20.639534883720934" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">khoá (vi)</text>
+<rect x="810" y="169.796511627907" width="310" height="105.65116279069768" rx="15.093023255813955" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="965.0" y="207.3" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#713F12">state.ts</text>
+<text x="965.0" y="234.9" font-size="20.639534883720934" text-anchor="middle" fill="#713F12" fill-opacity="0.75">files, pdfDoc,</text>
+<text x="965.0" y="258.6" font-size="20.639534883720934" text-anchor="middle" fill="#713F12" fill-opacity="0.75">activeTool</text>
+<rect x="810" y="298.0872093023256" width="310" height="115.55813953488374" rx="15.093023255813955" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="965.0" y="327.7" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#713F12">handlers/fileHandler.</text>
+<text x="965.0" y="353.4" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#713F12">ts</text>
+<text x="965.0" y="381.0" font-size="20.639534883720934" text-anchor="middle" fill="#713F12" fill-opacity="0.75">chọn tệp, kéo–thả, kiểm</text>
+<text x="965.0" y="404.6" font-size="20.639534883720934" text-anchor="middle" fill="#713F12" fill-opacity="0.75">tra</text>
+<rect x="810" y="426.3779069767442" width="310" height="115.55813953488374" rx="15.093023255813955" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="965.0" y="456.0" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#713F12">utils/disabled-</text>
+<text x="965.0" y="481.7" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#713F12">tools.ts</text>
+<text x="965.0" y="509.3" font-size="20.639534883720934" text-anchor="middle" fill="#713F12" fill-opacity="0.75">config.json +</text>
+<text x="965.0" y="532.9" font-size="20.639534883720934" text-anchor="middle" fill="#713F12" fill-opacity="0.75">DISABLE_TOOLS</text>
+<rect x="60" y="716.9186046511629" width="320" height="115.55813953488374" rx="15.093023255813955" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="220.0" y="746.6" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#064E3B">src/js/logic — 132 mô-</text>
+<text x="220.0" y="772.2" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#064E3B">đun</text>
+<text x="220.0" y="799.8" font-size="20.639534883720934" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">mỗi công cụ một mô-đun</text>
+<text x="220.0" y="823.5" font-size="20.639534883720934" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">trang</text>
+<rect x="400" y="716.9186046511629" width="330" height="113.19767441860466" rx="15.093023255813955" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="565.0" y="758.2" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#064E3B">src/js/workflow</text>
+<text x="565.0" y="785.8" font-size="20.639534883720934" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">engine · editor · 79 nút</text>
+<text x="565.0" y="809.5" font-size="20.639534883720934" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">· serialization</text>
+<rect x="60" y="867.8488372093025" width="320" height="113.19767441860466" rx="15.093023255813955" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="220.0" y="909.1" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#064E3B">src/js/compare</text>
+<text x="220.0" y="936.8" font-size="20.639534883720934" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">engine + Web Worker so</text>
+<text x="220.0" y="960.4" font-size="20.639534883720934" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">sánh</text>
+<rect x="400" y="867.8488372093025" width="330" height="113.19767441860466" rx="15.093023255813955" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="565.0" y="909.1" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#064E3B">public/workers/*.js</text>
+<text x="565.0" y="936.8" font-size="20.639534883720934" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">8 Web Worker (merge,</text>
+<text x="565.0" y="960.4" font-size="20.639534883720934" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">attachments, JSON, TOC)</text>
+<rect x="810" y="716.9186046511629" width="310" height="98.10465116279072" rx="15.093023255813955" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="965.0" y="750.7" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#0C4A6E">wasm-provider.ts</text>
+<text x="965.0" y="778.3" font-size="20.639534883720934" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">URL + danh sách máy chủ</text>
+<text x="965.0" y="801.9" font-size="20.639534883720934" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">tin cậy</text>
+<rect x="810" y="830.1162790697675" width="310" height="98.10465116279072" rx="15.093023255813955" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="965.0" y="863.8" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#0C4A6E">helpers.ts</text>
+<text x="965.0" y="891.5" font-size="20.639534883720934" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">downloadFile, qpdf,</text>
+<text x="965.0" y="915.1" font-size="20.639534883720934" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">parsePageRanges</text>
+<rect x="810" y="943.3139534883722" width="310" height="115.55813953488374" rx="15.093023255813955" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="965.0" y="973.0" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#0C4A6E">password-prompt ·</text>
+<text x="965.0" y="998.6" font-size="22.639534883720934" text-anchor="middle" font-weight="400" fill="#0C4A6E">pdf-decrypt</text>
+<text x="965.0" y="1026.2" font-size="20.639534883720934" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">hỏi mật khẩu, giải mã</text>
+<text x="965.0" y="1049.9" font-size="20.639534883720934" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">theo lô</text>
+<rect x="62" y="1282.9069767441863" width="145" height="113.19767441860466" rx="15.093023255813955" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="134.5" y="1336.5" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">pdf-lib</text>
+<text x="134.5" y="1360.3" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">+ fontkit</text>
+<rect x="217" y="1282.9069767441863" width="145" height="113.19767441860466" rx="15.093023255813955" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="289.5" y="1324.6" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">pdf.js</text>
+<text x="289.5" y="1348.4" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">(pdfjs-</text>
+<text x="289.5" y="1372.1" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">dist)</text>
+<rect x="372" y="1282.9069767441863" width="145" height="113.19767441860466" rx="15.093023255813955" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="444.5" y="1348.4" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">qpdf-wasm</text>
+<rect x="527" y="1282.9069767441863" width="145" height="113.19767441860466" rx="15.093023255813955" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="599.5" y="1336.5" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">CoherentPD</text>
+<text x="599.5" y="1360.3" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">F</text>
+<rect x="682" y="1282.9069767441863" width="145" height="113.19767441860466" rx="15.093023255813955" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="754.5" y="1336.5" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">PyMuPDF</text>
+<text x="754.5" y="1360.3" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">(Pyodide)</text>
+<rect x="837" y="1282.9069767441863" width="145" height="113.19767441860466" rx="15.093023255813955" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="909.5" y="1336.5" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">Ghostscrip</text>
+<text x="909.5" y="1360.3" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">t</text>
+<rect x="992" y="1282.9069767441863" width="145" height="113.19767441860466" rx="15.093023255813955" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="1064.5" y="1336.5" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">Tesseract.</text>
+<text x="1064.5" y="1360.3" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#7C2D12">js</text>
+<rect x="62" y="1418.744186046512" width="1058" height="90.55813953488374" rx="15.093023255813955" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="591.0" y="1461.0" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#713F12">dist/wasm  —  pymupdf 54 MB · ocr 47 MB · gs 15 MB · cpdf 6 MB   |   public/locales</text>
+<text x="591.0" y="1484.8" font-size="20.75290697674419" text-anchor="middle" font-weight="400" fill="#713F12">· fonts · qpdf.wasm · coherentpdf.browser.min.js</text>
+<text x="390" y="671.639534883721" font-size="18.866279069767444" text-anchor="middle" font-weight="400" fill="#475569">dùng lại các mô-đun tiện ích</text>
+</svg>

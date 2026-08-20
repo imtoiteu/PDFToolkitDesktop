@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1160" height="1595" viewBox="0 0 1160 1595" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1160" height="1595" fill="#FFFFFF"/>
+<path d="M 420.0 175.4 L 450.0 175.4" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 770.0 175.4 L 800.0 184.5" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 420.0 468.5 L 450.0 518.5" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 770.0 518.5 L 800.0 468.5" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 960.0 289.2 L 970.0 697.8 L 580.0 737.7" fill="none" stroke="#EA580C" stroke-width="1.6" marker-end="url(#arwo)"/>
+<path d="M 580.0 957.0 L 305.0 986.9 L 305.0 1016.8" fill="none" stroke="#334155" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 580.0 957.0 L 860.0 986.9 L 860.0 1016.8" fill="none" stroke="#DC2626" stroke-width="1.6" marker-end="url(#arwd)"/>
+<rect x="40" y="79.75" width="380" height="191.39999999999998" rx="15.95" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="230.0" y="158.5" font-size="25.91875" text-anchor="middle" font-weight="700" fill="#0C4A6E">Thời điểm biên dịch</text>
+<text x="230.0" y="189.4" font-size="23.91875" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">vite build --mode tauri</text>
+<text x="230.0" y="216.3" font-size="23.91875" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">nạp .env.tauri</text>
+<path d="M 40 299.0625 H 392.0875 L 420 326.975 V 638.0 H 40 Z" fill="#FEFCE8" stroke="#CA8A04" stroke-width="1.4"/><path d="M 392.0875 299.0625 V 326.975 H 420" fill="none" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="50" y="339.4" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">VITE_WASM_PYMUPDF_URL=/wasm</text>
+<text x="50" y="362.3" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">/pymupdf/</text>
+<text x="50" y="385.2" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">VITE_WASM_GS_URL=/wasm/gs/</text>
+<text x="50" y="408.2" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">VITE_WASM_CPDF_URL=/wasm/cp</text>
+<text x="50" y="431.1" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">df/</text>
+<text x="50" y="454.1" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">VITE_TESSERACT_WORKER_URL=/</text>
+<text x="50" y="477.0" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">wasm/ocr/worker.min.js</text>
+<text x="50" y="499.9" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">VITE_TESSERACT_CORE_URL=/wa</text>
+<text x="50" y="522.9" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">sm/ocr/core</text>
+<text x="50" y="545.8" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">VITE_TESSERACT_LANG_URL=/wa</text>
+<text x="50" y="568.8" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">sm/ocr/lang-data</text>
+<text x="50" y="591.7" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">VITE_OCR_FONT_BASE_URL=/was</text>
+<text x="50" y="614.6" font-size="19.9375" text-anchor="start" font-weight="400" fill="#713F12">m/ocr/fonts</text>
+<rect x="450" y="79.75" width="320" height="191.39999999999998" rx="15.95" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="610.0" y="144.0" font-size="25.91875" text-anchor="middle" font-weight="700" fill="#064E3B">WasmProviderManage</text>
+<text x="610.0" y="172.9" font-size="25.91875" text-anchor="middle" font-weight="700" fill="#064E3B">r</text>
+<text x="610.0" y="203.9" font-size="23.91875" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">src/js/utils/wasm-</text>
+<text x="610.0" y="230.8" font-size="23.91875" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">provider.ts</text>
+<path d="M 450 299.0625 H 742.0875 L 770 326.975 V 737.9375 H 450 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 742.0875 299.0625 V 326.975 H 770" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="460" y="332.0" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">Thứ tự ưu tiên khi lấy</text>
+<text x="460" y="354.9" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">URL:</text>
+<text x="460" y="377.9" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">1. Giá trị người dùng</text>
+<text x="460" y="400.8" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">đặt trong localStorage</text>
+<text x="460" y="423.8" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">     (khoá</text>
+<text x="460" y="446.7" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">bentopdf:wasm-</text>
+<text x="460" y="469.6" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">providers)</text>
+<text x="460" y="492.6" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">2. Giá trị</text>
+<text x="460" y="515.5" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">ENV_DEFAULTS từ biến</text>
+<text x="460" y="538.4" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">VITE_*</text>
+<text x="460" y="561.4" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">3. CDN_DEFAULTS</text>
+<text x="460" y="584.3" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">(jsDelivr) — chỉ bản</text>
+<text x="460" y="607.2" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">web</text>
+<text x="460" y="630.2" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A"></text>
+<text x="460" y="653.1" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">Mọi URL phải thuộc</text>
+<text x="460" y="676.1" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">BUILTIN_TRUSTED_HOSTS,</text>
+<text x="460" y="699.0" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">nếu không sẽ bị loại</text>
+<text x="460" y="721.9" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">và ghi cảnh báo.</text>
+<rect x="800" y="79.75" width="320" height="209.43125" rx="15.95" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="960.0" y="112.7" font-size="25.91875" text-anchor="middle" font-weight="700" fill="#7C2D12">Các bộ nạp chuyên</text>
+<text x="960.0" y="141.6" font-size="25.91875" text-anchor="middle" font-weight="700" fill="#7C2D12">biệt</text>
+<text x="960.0" y="172.5" font-size="23.91875" text-anchor="middle" fill="#7C2D12" fill-opacity="0.75">pymupdf-loader ·</text>
+<text x="960.0" y="199.4" font-size="23.91875" text-anchor="middle" fill="#7C2D12" fill-opacity="0.75">ghostscript-loader ·</text>
+<text x="960.0" y="226.3" font-size="23.91875" text-anchor="middle" fill="#7C2D12" fill-opacity="0.75">cpdf-helper ·</text>
+<text x="960.0" y="253.3" font-size="23.91875" text-anchor="middle" fill="#7C2D12" fill-opacity="0.75">tesseract-runtime ·</text>
+<text x="960.0" y="280.2" font-size="23.91875" text-anchor="middle" fill="#7C2D12" fill-opacity="0.75">libreoffice-loader</text>
+<path d="M 800 299.0625 H 1092.0875 L 1120 326.975 V 638.0 H 800 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1092.0875 299.0625 V 326.975 H 1120" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="810" y="362.3" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">Mỗi bộ nạp giữ một thể</text>
+<text x="810" y="385.2" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">hiện singleton</text>
+<text x="810" y="408.2" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">và một loadPromise</text>
+<text x="810" y="431.1" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">dùng chung để tránh</text>
+<text x="810" y="454.1" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">nạp trùng khi nhiều</text>
+<text x="810" y="477.0" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">thao tác cùng gọi.</text>
+<text x="810" y="499.9" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A"></text>
+<text x="810" y="522.9" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">cpdf-helper nạp bằng</text>
+<text x="810" y="545.8" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">thẻ &lt;script&gt;;</text>
+<text x="810" y="568.8" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">merge.worker.js nạp</text>
+<text x="810" y="591.7" font-size="19.9375" text-anchor="start" font-weight="400" fill="#0F172A">bằng importScripts().</text>
+<rect x="40" y="737.6875" width="1080" height="219.3125" rx="15.95" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="580.0" y="806.9" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#713F12">dist/wasm/ được đóng gói vào ứng dụng bởi scripts/copy-wasm-to-dist.mjs</text>
+<text x="580.0" y="831.9" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#713F12"></text>
+<text x="580.0" y="856.8" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#713F12">pymupdf/ (54 MB — Pyodide, numpy, opencv, pymupdf, pdf2docx, python-docx)   ·</text>
+<text x="580.0" y="881.7" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#713F12">ocr/ (47 MB — 8 biến thể tesseract-core, eng.traineddata.gz, NotoSans)   ·   gs/</text>
+<text x="580.0" y="906.7" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#713F12">(15 MB)   ·   cpdf/ (6 MB)</text>
+<rect x="40" y="1016.8125" width="530" height="263.3125" rx="15.95" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/>
+<text x="305.0" y="1045.7" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#0F172A">Yêu cầu cách ly nguồn gốc</text>
+<text x="305.0" y="1070.7" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<text x="305.0" y="1095.6" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#0F172A">tauri.conf.json → app.security.headers</text>
+<text x="305.0" y="1120.5" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#0F172A">đặt</text>
+<text x="305.0" y="1145.5" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#0F172A">Cross-Origin-Opener-Policy: same-</text>
+<text x="305.0" y="1170.4" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#0F172A">origin</text>
+<text x="305.0" y="1195.3" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#0F172A">Cross-Origin-Embedder-Policy: require-</text>
+<text x="305.0" y="1220.3" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#0F172A">corp</text>
+<text x="305.0" y="1245.2" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#0F172A">→ SharedArrayBuffer khả dụng cho các</text>
+<text x="305.0" y="1270.1" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#0F172A">mô-đun WASM đa luồng</text>
+<rect x="600" y="1016.8125" width="520" height="235.2625" rx="15.95" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="860.0" y="1069.1" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D">Cổng kiểm tra trước khi chạy</text>
+<text x="860.0" y="1094.0" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D"></text>
+<text x="860.0" y="1119.0" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D">requireWasm(pkg) →</text>
+<text x="860.0" y="1143.9" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D">WasmProvider.isConfigured(pkg)</text>
+<text x="860.0" y="1168.8" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D">Nếu thiếu: showWasmRequiredDialog()</text>
+<text x="860.0" y="1193.8" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D">liệt kê các tính năng phụ thuộc và mở</text>
+<text x="860.0" y="1218.7" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D">trang wasm-settings.html</text>
+<rect x="40" y="1295.9375" width="1080" height="219.3125" rx="15.95" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="580.0" y="1352.7" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#1E1B4B">Kết luận về phụ thuộc mạng của bản desktop</text>
+<text x="580.0" y="1377.7" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<text x="580.0" y="1402.6" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#1E1B4B">Không có yêu cầu mạng nào cho các thao tác lõi. Hai tính năng duy nhất chủ động</text>
+<text x="580.0" y="1427.5" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#1E1B4B">dùng mạng: (1) đóng dấu thời gian RFC 3161 tới máy chủ TSA do người dùng chọn;</text>
+<text x="580.0" y="1452.5" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#1E1B4B">(2) tải phông chữ CJK/Noto theo yêu cầu khi OCR ngôn ngữ tương ứng. Cả hai chỉ</text>
+<text x="580.0" y="1477.4" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#1E1B4B">chạy khi người dùng trực tiếp kích hoạt.</text>
+</svg>

@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1160" height="1560" viewBox="0 0 1160 1560" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1160" height="1560" fill="#FFFFFF"/>
+<rect x="40" y="80.0" width="500" height="600.0" rx="10" fill="#EEF2FF" fill-opacity="0.45" stroke="#4F46E5" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="52" y="110.0" font-size="24.0" font-weight="700" fill="#1E1B4B">Trình soạn thảo trực quan (Rete.js)</text>
+<rect x="580" y="80.0" width="540" height="600.0" rx="10" fill="#ECFDF5" fill-opacity="0.45" stroke="#059669" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="592" y="110.0" font-size="24.0" font-weight="700" fill="#064E3B">engine.ts — bộ thực thi</text>
+<rect x="40" y="1040.0" width="1080" height="420.0" rx="10" fill="#E0F2FE" fill-opacity="0.45" stroke="#0284C7" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="52" y="1070.0" font-size="24.0" font-weight="700" fill="#0C4A6E">Ví dụ đồ thị người dùng dựng được</text>
+<path d="M 216.0 1238.0 L 246.0 1238.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 396.0 1238.0 L 426.0 1238.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 576.0 1238.0 L 606.0 1238.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 756.0 1238.0 L 786.0 1238.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 936.0 1238.0 L 966.0 1238.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 276.0 236.0 L 560.0 236.0 L 606.0 240.5" fill="none" stroke="#059669" stroke-width="1.6" marker-end="url(#arwg)"/>
+<path d="M 721.0 301.0 L 721.0 304.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 721.0 408.0 L 721.0 428.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 836.0 488.5 L 853.0 480.0 L 853.0 232.0 L 870.0 240.5" fill="none" stroke="#059669" stroke-width="1.6" marker-end="url(#arwg)"/>
+<path d="M 985.0 301.0 L 985.0 304.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 985.0 425.0 L 985.0 428.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 985.0 425.0 L 985.0 760.0 L 860.0 760.0 L 810.0 870.0" fill="none" stroke="#DC2626" stroke-width="1.6" marker-end="url(#arwd)"/>
+<rect x="939.4" y="685.4" width="91.2" height="26.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="985.0" y="705.4" font-size="20.0" text-anchor="middle" fill="#334155">ngoại lệ</text>
+<path d="M 276.0 380.0 L 310.0 380.0" fill="none" stroke="#475569" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#arw)"/>
+<path d="M 985.0 425.0 L 985.0 980.0 L 141.0 980.0 L 141.0 1180.0" fill="none" stroke="#059669" stroke-width="1.6" marker-end="url(#arwg)"/>
+<rect x="637.7" y="950.0" width="205.6" height="26.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="740.5" y="970.0" font-size="20.0" text-anchor="middle" fill="#334155">gọi data() từng nút</text>
+<rect x="66" y="180.0" width="210" height="112.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="171.0" y="220.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">editor.ts</text>
+<text x="171.0" y="249.0" font-size="22.0" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">NodeEditor +</text>
+<text x="171.0" y="274.0" font-size="22.0" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">AreaPlugin</text>
+<rect x="66" y="324.0" width="210" height="112.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="171.0" y="364.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">79 lớp nút</text>
+<text x="171.0" y="393.0" font-size="22.0" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">nodes/registry</text>
+<text x="171.0" y="418.0" font-size="22.0" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">.ts</text>
+<rect x="66" y="468.0" width="210" height="121.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="171.0" y="499.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">serialization</text>
+<text x="171.0" y="526.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">.ts</text>
+<text x="171.0" y="555.0" font-size="22.0" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">JSON, WORKFLOW</text>
+<text x="171.0" y="580.0" font-size="22.0" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">_VERSION = 1</text>
+<path d="M 310 180.0 H 492.0 L 520 208.0 V 580.0 H 310 Z" fill="#FEFCE8" stroke="#CA8A04" stroke-width="1.4"/><path d="M 492.0 180.0 V 208.0 H 520" fill="none" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="415.0" y="289.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12">sockets.ts</text>
+<text x="415.0" y="314.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12"></text>
+<text x="415.0" y="339.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12">Kiểu dữ liệu</text>
+<text x="415.0" y="364.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12">truyền giữa</text>
+<text x="415.0" y="389.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12">các nút:</text>
+<text x="415.0" y="414.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12">• PDFData</text>
+<text x="415.0" y="439.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12">• ImageData</text>
+<text x="415.0" y="464.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12">•</text>
+<text x="415.0" y="489.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12">MultiPDFData</text>
+<rect x="606" y="180.0" width="230" height="121.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="721.0" y="211.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">Xác định nút</text>
+<text x="721.0" y="238.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">cuối</text>
+<text x="721.0" y="267.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">không có kết nối</text>
+<text x="721.0" y="292.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">đầu ra</text>
+<rect x="606" y="304.0" width="230" height="104.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="721.0" y="339.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">getUpstreamNod</text>
+<text x="721.0" y="366.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">es()</text>
+<text x="721.0" y="395.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">duyệt BFS ngược</text>
+<rect x="606" y="428.0" width="230" height="121.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="721.0" y="459.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">topologicalSor</text>
+<text x="721.0" y="486.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">t()</text>
+<text x="721.0" y="515.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">Kahn — phát hiện</text>
+<text x="721.0" y="540.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">chu trình</text>
+<rect x="870" y="180.0" width="230" height="121.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="985.0" y="211.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">validateEncryp</text>
+<text x="985.0" y="238.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">tOrdering()</text>
+<text x="985.0" y="267.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">Encrypt chỉ nối</text>
+<text x="985.0" y="292.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">tới nút Output</text>
+<rect x="870" y="304.0" width="230" height="121.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="985.0" y="335.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">DataflowEngine</text>
+<text x="985.0" y="362.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">.fetch()</text>
+<text x="985.0" y="391.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">thực thi tuần tự</text>
+<text x="985.0" y="416.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">theo thứ tự</text>
+<rect x="870" y="428.0" width="230" height="104.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="985.0" y="464.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">onProgress()</text>
+<text x="985.0" y="493.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">idle → running →</text>
+<text x="985.0" y="518.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">completed/error</text>
+<rect x="340" y="800.0" width="470" height="140.0" rx="16.0" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="575.0" y="854.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">WorkflowError(nodeName): dừng</text>
+<text x="575.0" y="879.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">luồng, tô đỏ nút lỗi, đưa các nút</text>
+<text x="575.0" y="904.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">đang chạy về trạng thái idle</text>
+<rect x="66" y="1180.0" width="150" height="116.0" rx="16.0" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="141.0" y="1235.0" font-size="24.0" text-anchor="middle" font-weight="700" fill="#713F12">PDF</text>
+<text x="141.0" y="1262.0" font-size="24.0" text-anchor="middle" font-weight="700" fill="#713F12">Input</text>
+<rect x="246" y="1180.0" width="150" height="116.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="321.0" y="1248.5" font-size="24.0" text-anchor="middle" font-weight="700" fill="#064E3B">Merge</text>
+<rect x="426" y="1180.0" width="150" height="116.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="501.0" y="1235.0" font-size="24.0" text-anchor="middle" font-weight="700" fill="#064E3B">Watermar</text>
+<text x="501.0" y="1262.0" font-size="24.0" text-anchor="middle" font-weight="700" fill="#064E3B">k</text>
+<rect x="606" y="1180.0" width="150" height="116.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="681.0" y="1248.5" font-size="24.0" text-anchor="middle" font-weight="700" fill="#064E3B">Compress</text>
+<rect x="786" y="1180.0" width="150" height="116.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="861.0" y="1248.5" font-size="24.0" text-anchor="middle" font-weight="700" fill="#064E3B">Encrypt</text>
+<rect x="966" y="1180.0" width="150" height="116.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="1041.0" y="1235.0" font-size="24.0" text-anchor="middle" font-weight="700" fill="#1E1B4B">Download</text>
+<text x="1041.0" y="1262.0" font-size="24.0" text-anchor="middle" font-weight="700" fill="#1E1B4B">PDF</text>
+<path d="M 66 1336.0 H 1068.0 L 1096 1364.0 V 1424.0 H 66 Z" fill="#FEF2F2" stroke="#DC2626" stroke-width="1.4"/><path d="M 1068.0 1336.0 V 1364.0 H 1096" fill="none" stroke="#DC2626" stroke-width="2.56"/>
+<text x="581.0" y="1377.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">Nút Encrypt bắt buộc nằm ngay trước nút Output — mọi biến đổi sau</text>
+<text x="581.0" y="1402.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">khi mã hoá đều bị chặn bởi validateEncryptOrdering()</text>
+</svg>

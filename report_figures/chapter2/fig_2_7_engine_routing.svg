@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1160" height="1595" viewBox="0 0 1160 1595" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10.8" markerHeight="10.8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10.8" markerHeight="10.8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10.8" markerHeight="10.8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10.8" markerHeight="10.8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10.8" markerHeight="10.8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10.8" markerHeight="10.8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10.8" markerHeight="10.8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1160" height="1595" fill="#FFFFFF"/>
+<path d="M 340.0 254.0 L 360.0 254.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 580.0 133.2 L 580.0 170.3 L 190.0 170.3 L 190.0 201.3" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 340.0 374.7 L 360.0 374.7" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 580.0 133.2 L 580.0 170.3 L 190.0 170.3 L 190.0 322.1" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 340.0 495.5 L 360.0 495.5" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 580.0 133.2 L 580.0 170.3 L 190.0 170.3 L 190.0 442.9" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 340.0 616.3 L 360.0 616.3" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 580.0 133.2 L 580.0 170.3 L 190.0 170.3 L 190.0 563.7" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 340.0 737.1 L 360.0 737.1" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 580.0 133.2 L 580.0 170.3 L 190.0 170.3 L 190.0 684.5" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 340.0 857.9 L 360.0 857.9" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 580.0 133.2 L 580.0 170.3 L 190.0 170.3 L 190.0 805.2" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 340.0 978.7 L 360.0 978.7" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 580.0 133.2 L 580.0 170.3 L 190.0 170.3 L 190.0 926.0" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 340.0 1099.5 L 360.0 1099.5" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 580.0 133.2 L 580.0 170.3 L 190.0 170.3 L 190.0 1046.8" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 340.0 1220.3 L 360.0 1220.3" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 580.0 133.2 L 580.0 170.3 L 190.0 170.3 L 190.0 1167.6" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 340.0 1341.0 L 360.0 1341.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 580.0 133.2 L 580.0 170.3 L 190.0 170.3 L 190.0 1288.4" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 40.0 616.3 L 18.0 616.3 L 18.0 1488.2 L 40.0 1488.2" fill="none" stroke="#DC2626" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 40.0 737.1 L 18.0 737.1 L 18.0 1488.2 L 40.0 1488.2" fill="none" stroke="#DC2626" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 40.0 857.9 L 18.0 857.9 L 18.0 1488.2 L 40.0 1488.2" fill="none" stroke="#DC2626" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="430" y="46.45631067961165" width="300" height="86.71844660194175" rx="12.388349514563107" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.48"/>
+<text x="580.0" y="98.4" font-size="20.131067961165048" text-anchor="middle" font-weight="700" fill="#1E1B4B">Yêu cầu thao tác PDF</text>
+<rect x="40" y="201.31067961165047" width="300" height="105.30097087378641" rx="12.388349514563107" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.48"/>
+<text x="190.0" y="261.8" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">pdf-lib (+ fontkit)</text>
+<rect x="360" y="201.31067961165047" width="760" height="105.30097087378641" rx="6.194174757281553" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.48"/>
+<text x="370" y="240.9" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">Xoay, xoá và trích trang; đóng dấu chìm; đánh số trang; đầu và chân</text>
+<text x="370" y="261.0" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">trang; gộp nhiều trang lên một tờ; làm phẳng; chuẩn hoá khổ giấy; nhúng</text>
+<text x="370" y="281.0" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">phông và vẽ lớp văn bản cho kết quả OCR</text>
+<rect x="40" y="322.09708737864077" width="300" height="105.30097087378641" rx="12.388349514563107" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.48"/>
+<text x="190.0" y="382.5" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">pdf.js (pdfjs-dist)</text>
+<rect x="360" y="322.09708737864077" width="760" height="105.30097087378641" rx="6.194174757281553" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.48"/>
+<text x="370" y="371.7" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">Kết xuất trang ra canvas; sinh ảnh thu nhỏ; xem trước tài liệu; trích</text>
+<text x="370" y="391.8" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">văn bản; PDF sang ảnh; hiệu ứng bản quét; phát hiện tài liệu có mật khẩu</text>
+<rect x="40" y="442.88349514563106" width="300" height="105.30097087378641" rx="12.388349514563107" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.48"/>
+<text x="190.0" y="503.3" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">qpdf-wasm</text>
+<rect x="360" y="442.88349514563106" width="760" height="105.30097087378641" rx="6.194174757281553" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.48"/>
+<text x="370" y="492.5" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">Mã hoá AES-256; giải mã; đặt quyền in, sao chép và chỉnh sửa; tuyến tính</text>
+<text x="370" y="512.6" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">hoá; sửa chữa tệp hỏng</text>
+<rect x="40" y="563.6699029126213" width="300" height="105.30097087378641" rx="12.388349514563107" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.48"/>
+<text x="190.0" y="624.1" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">CoherentPDF</text>
+<rect x="360" y="563.6699029126213" width="760" height="105.30097087378641" rx="6.194174757281553" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.48"/>
+<text x="370" y="613.3" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">Ghép tệp có giữ nhãn trang; tách theo bookmark; sinh mục lục; chuyển đổi</text>
+<text x="370" y="633.4" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">PDF ↔ JSON; thêm, sửa và trích tệp đính kèm; sửa bookmark</text>
+<rect x="40" y="684.4563106796116" width="300" height="105.30097087378641" rx="12.388349514563107" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.48"/>
+<text x="190.0" y="744.9" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">PyMuPDF trên Pyodide</text>
+<rect x="360" y="684.4563106796116" width="760" height="105.30097087378641" rx="6.194174757281553" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.48"/>
+<text x="370" y="734.1" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">Nén ảnh nhúng; PDF sang văn bản, Markdown, SVG và DOCX; trích ảnh và</text>
+<text x="370" y="754.1" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">bảng; EPUB, MOBI, FB2, XPS và CBZ sang PDF; khử nghiêng trang quét</text>
+<rect x="40" y="805.2427184466019" width="300" height="105.30097087378641" rx="12.388349514563107" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.48"/>
+<text x="190.0" y="865.7" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">Ghostscript</text>
+<rect x="360" y="805.2427184466019" width="760" height="105.30097087378641" rx="6.194174757281553" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.48"/>
+<text x="370" y="854.9" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">Chuyển đổi sang PDF/A-1b, PDF/A-2b và PDF/A-3b; chuyển phông chữ thành</text>
+<text x="370" y="874.9" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">đường nét vector</text>
+<rect x="40" y="926.0291262135922" width="300" height="105.30097087378641" rx="12.388349514563107" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.48"/>
+<text x="190.0" y="986.5" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">Tesseract.js</text>
+<rect x="360" y="926.0291262135922" width="760" height="105.30097087378641" rx="6.194174757281553" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.48"/>
+<text x="370" y="975.7" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">Nhận dạng ký tự đa ngôn ngữ; sinh dữ liệu hOCR chứa toạ độ, góc nghiêng</text>
+<text x="370" y="995.7" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">và độ dốc đường cơ sở của từng từ</text>
+<rect x="40" y="1046.8155339805826" width="300" height="105.30097087378641" rx="12.388349514563107" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.48"/>
+<text x="190.0" y="1096.5" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">wasm-vips, heic2any,</text>
+<text x="190.0" y="1118.0" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">utif</text>
+<rect x="360" y="1046.8155339805826" width="760" height="105.30097087378641" rx="6.194174757281553" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.48"/>
+<text x="370" y="1096.5" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">Giải mã và biến đổi các định dạng ảnh ngoài luồng phổ thông: HEIC, TIFF,</text>
+<text x="370" y="1116.5" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">PSD, JPEG 2000</text>
+<rect x="40" y="1167.6019417475727" width="300" height="105.30097087378641" rx="12.388349514563107" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.48"/>
+<text x="190.0" y="1228.0" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">LibreOffice-WASM</text>
+<rect x="360" y="1167.6019417475727" width="760" height="105.30097087378641" rx="6.194174757281553" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.48"/>
+<text x="370" y="1217.3" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">Chuyển tài liệu văn phòng sang PDF: DOCX, XLSX, PPTX, ODT, ODS, ODP,</text>
+<text x="370" y="1237.3" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">ODG, RTF, WPD, WPS, PUB, VSD, Pages</text>
+<rect x="40" y="1288.388349514563" width="300" height="105.30097087378641" rx="12.388349514563107" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.48"/>
+<text x="190.0" y="1338.0" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">zgapdfsigner + node-</text>
+<text x="190.0" y="1359.6" font-size="18.58252427184466" text-anchor="middle" font-weight="700" fill="#7C2D12">forge</text>
+<rect x="360" y="1288.388349514563" width="760" height="105.30097087378641" rx="6.194174757281553" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.48"/>
+<text x="370" y="1338.0" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">Ký số bằng chứng thư X.509 từ tệp PFX hoặc PEM; đóng dấu thời gian RFC</text>
+<text x="370" y="1358.1" font-size="17.033980582524272" text-anchor="start" font-weight="400" fill="#0F172A">3161; kiểm tra chữ ký và chuỗi chứng thư</text>
+<rect x="40" y="1427.7572815533981" width="1080" height="120.7864077669903" rx="12.388349514563107" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.48"/>
+<text x="580.0" y="1475.1" font-size="17.033980582524272" text-anchor="middle" font-weight="400" fill="#7F1D1D">Cổng kiểm tra chung cho ba mô-đun được cấu hình bên ngoài (CoherentPDF, PyMuPDF, Ghostscript):</text>
+<text x="580.0" y="1495.2" font-size="17.033980582524272" text-anchor="middle" font-weight="400" fill="#7F1D1D">WasmProvider.isConfigured() — nếu chưa khả dụng, showWasmRequiredDialog() liệt kê các tính năng phụ</text>
+<text x="580.0" y="1515.2" font-size="17.033980582524272" text-anchor="middle" font-weight="400" fill="#7F1D1D">thuộc và mở trang cấu hình thay vì để thao tác thất bại âm thầm</text>
+</svg>

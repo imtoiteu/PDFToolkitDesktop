@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1160" height="1595" viewBox="0 0 1160 1595" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1160" height="1595" fill="#FFFFFF"/>
+<path d="M 600.0 127.6 L 630.0 135.7" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 600.0 269.4 L 630.0 269.4" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 600.0 411.2 L 630.0 411.2" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 600.0 552.9 L 630.0 552.9" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 600.0 694.7 L 630.0 694.7" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 600.0 836.5 L 630.0 836.5" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 600.0 978.3 L 630.0 978.3" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 600.0 1120.0 L 630.0 1120.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 600.0 1261.8 L 630.0 1261.8" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 600.0 1403.6 L 630.0 1403.6" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 320.0 184.3 L 320.0 212.7" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 320.0 326.1 L 320.0 354.4" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 320.0 467.9 L 320.0 496.2" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 320.0 609.6 L 320.0 638.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 320.0 751.4 L 320.0 779.8" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 320.0 893.2 L 320.0 921.6" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 320.0 1035.0 L 320.0 1063.3" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 320.0 1176.8 L 320.0 1205.1" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 320.0 1318.5 L 320.0 1346.9" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 320.0 1460.3 L 580.0 1488.7" fill="none" stroke="#DC2626" stroke-width="1.6" marker-end="url(#arwd)"/>
+<rect x="40" y="70.88888888888889" width="560" height="113.42222222222222" rx="14.177777777777777" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="320.0" y="124.6" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7C2D12">createConfiguredTesseractWorker(language,</text>
+<text x="320.0" y="147.1" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7C2D12">OEM=1, logger)</text>
+<path d="M 630 70.88888888888889 H 1095.1888888888889 L 1120 95.69999999999999 V 200.5 H 630 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1095.1888888888889 70.88888888888889 V 95.69999999999999 H 1120" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="875.0" y="101.6" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">assertTesseractLanguagesAvailable()</text>
+<text x="875.0" y="122.3" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">kiểm tra ngôn ngữ khả dụng;</text>
+<text x="875.0" y="143.1" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">buildTesseractWorkerOptions() yêu cầu</text>
+<text x="875.0" y="163.8" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">cả ba biến worker/core/lang phải được</text>
+<text x="875.0" y="184.5" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">đặt cùng nhau</text>
+<rect x="40" y="212.66666666666666" width="560" height="113.42222222222222" rx="14.177777777777777" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="320.0" y="266.4" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7C2D12">setParameters({tessedit_pageseg_mode,</text>
+<text x="320.0" y="288.9" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7C2D12">tessedit_char_whitelist})</text>
+<path d="M 630 212.66666666666666 H 1095.1888888888889 L 1120 237.47777777777776 V 326.08888888888885 H 630 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1095.1888888888889 212.66666666666666 V 237.47777777777776 H 1120" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="875.0" y="266.4" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">PSM mặc định AUTO; danh sách ký tự cho</text>
+<text x="875.0" y="287.1" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">phép do người dùng nhập</text>
+<rect x="40" y="354.44444444444446" width="560" height="113.42222222222222" rx="14.177777777777777" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="320.0" y="419.4" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#0C4A6E">Nạp phông theo ngôn ngữ — getFontForLanguage()</text>
+<path d="M 630 354.44444444444446 H 1095.1888888888889 L 1120 379.2555555555556 V 467.8666666666667 H 630 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1095.1888888888889 354.44444444444446 V 379.2555555555556 H 1120" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="875.0" y="387.4" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">languageToFontFamily ánh xạ ngôn ngữ</text>
+<text x="875.0" y="408.2" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">sang họ phông; tách riêng phông Latin</text>
+<text x="875.0" y="428.9" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">khi trộn chữ Latin với CJK/Ấn/Ả Rập; dự</text>
+<text x="875.0" y="449.6" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">phòng Helvetica</text>
+<rect x="40" y="496.2222222222222" width="560" height="113.42222222222222" rx="14.177777777777777" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="320.0" y="549.9" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#064E3B">Vòng lặp từng trang:</text>
+<text x="320.0" y="572.4" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#064E3B">pdfjs.getPage(i).render(scale = resolution)</text>
+<path d="M 630 496.2222222222222 H 1095.1888888888889 L 1120 521.0333333333333 V 609.6444444444444 H 630 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1095.1888888888889 496.2222222222222 V 521.0333333333333 H 1120" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="875.0" y="549.9" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">Kết xuất trang ra canvas theo độ phân</text>
+<text x="875.0" y="570.7" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">giải người dùng chọn</text>
+<rect x="40" y="638.0" width="560" height="113.42222222222222" rx="14.177777777777777" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="320.0" y="691.7" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#064E3B">binarizeCanvas() — tuỳ chọn nhị phân hoá</text>
+<text x="320.0" y="714.2" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#064E3B">ngưỡng 128</text>
+<path d="M 630 638.0 H 1095.1888888888889 L 1120 662.8111111111111 V 751.4222222222222 H 630 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1095.1888888888889 638.0 V 662.8111111111111 H 1120" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="875.0" y="702.1" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">Độ sáng = 0,299R + 0,587G + 0,114B</text>
+<rect x="40" y="779.7777777777777" width="560" height="113.42222222222222" rx="14.177777777777777" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="320.0" y="833.5" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7C2D12">recognizeWithTimeout(worker, canvas, 5</text>
+<text x="320.0" y="856.0" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7C2D12">phút/trang)</text>
+<path d="M 630 779.7777777777777 H 1095.1888888888889 L 1120 804.5888888888888 V 893.1999999999999 H 630 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1095.1888888888889 779.7777777777777 V 804.5888888888888 H 1120" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="875.0" y="823.1" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">Trả về text và hOCR; quá hạn được ghi</text>
+<text x="875.0" y="843.8" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">thành cảnh báo thay vì huỷ toàn bộ tài</text>
+<text x="875.0" y="864.6" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">liệu</text>
+<rect x="40" y="921.5555555555555" width="560" height="113.42222222222222" rx="14.177777777777777" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="320.0" y="975.3" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#064E3B">parseHocrDocument() +</text>
+<text x="320.0" y="997.8" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#064E3B">scaleOcrPageToPdfPoints()</text>
+<path d="M 630 921.5555555555555 H 1095.1888888888889 L 1120 946.3666666666667 V 1034.9777777777776 H 630 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1095.1888888888889 921.5555555555555 V 946.3666666666667 H 1120" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="875.0" y="975.3" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">Chuyển toạ độ hộp bao từ điểm ảnh sang</text>
+<text x="875.0" y="996.0" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">điểm PDF</text>
+<rect x="40" y="1063.3333333333333" width="560" height="113.42222222222222" rx="14.177777777777777" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="320.0" y="1117.0" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7C2D12">copyPages() trang gốc sang tài liệu mới (pdf-</text>
+<text x="320.0" y="1139.5" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7C2D12">lib)</text>
+<path d="M 630 1063.3333333333333 H 1095.1888888888889 L 1120 1088.1444444444444 V 1176.7555555555555 H 630 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1095.1888888888889 1063.3333333333333 V 1088.1444444444444 H 1120" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="875.0" y="1117.0" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">Giữ nguyên hình ảnh gốc, không kết xuất</text>
+<text x="875.0" y="1137.8" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">lại</text>
+<rect x="40" y="1205.111111111111" width="560" height="113.42222222222222" rx="14.177777777777777" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="320.0" y="1258.8" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7C2D12">drawOcrTextLayer() — vẽ từng từ với opacity =</text>
+<text x="320.0" y="1281.3" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7C2D12">0</text>
+<path d="M 630 1205.111111111111 H 1095.1888888888889 L 1120 1229.9222222222222 V 1318.5333333333333 H 630 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1095.1888888888889 1205.111111111111 V 1229.9222222222222 H 1120" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="875.0" y="1238.1" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">Tính góc xoay từ textangle và độ dốc</text>
+<text x="875.0" y="1258.8" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">đường cơ sở; chèn dấu cách khi</text>
+<text x="875.0" y="1279.5" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">injectWordBreaks; đảo thứ tự từ với</text>
+<text x="875.0" y="1300.3" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">dòng RTL</text>
+<rect x="40" y="1346.888888888889" width="560" height="113.42222222222222" rx="14.177777777777777" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="320.0" y="1400.6" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7F1D1D">Dọn dẹp và lưu: canvas 0×0, page.cleanup(),</text>
+<text x="320.0" y="1423.1" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7F1D1D">pdf.cleanup() mỗi 25 trang, worker.terminate()</text>
+<path d="M 630 1346.888888888889 H 1095.1888888888889 L 1120 1371.7 V 1460.3111111111111 H 630 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1095.1888888888889 1346.888888888889 V 1371.7 H 1120" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="875.0" y="1400.6" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">Bảo đảm bộ nhớ không tăng tuyến tính</text>
+<text x="875.0" y="1421.3" font-size="17.72222222222222" text-anchor="middle" font-weight="400" fill="#0F172A">với tài liệu nhiều trang</text>
+<rect x="40" y="1488.6666666666665" width="1080" height="81.52222222222221" rx="14.177777777777777" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="580.0" y="1526.4" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7F1D1D">OcrResult trả về kèm mảng warnings[] gồm bốn loại: recognize-timeout · recognize-error ·</text>
+<text x="580.0" y="1548.9" font-size="19.494444444444444" text-anchor="middle" font-weight="400" fill="#7F1D1D">draw-error · page-error — được hiển thị cho người dùng sau khi xử lý</text>
+</svg>

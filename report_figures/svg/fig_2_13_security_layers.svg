@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="1540" viewBox="0 0 1120 1540" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1120" height="1540" fill="#FFFFFF"/>
+<rect x="40" y="75.1219512195122" width="1040" height="1389.7560975609756" rx="10" fill="#EEF2FF" fill-opacity="0.45" stroke="#4F46E5" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="52" y="103.65853658536585" font-size="22.53658536585366" font-weight="700" fill="#1E1B4B">Lớp 1 — Kiến trúc: không tải tệp lên mạng</text>
+<rect x="100" y="206.58536585365854" width="920" height="1126.829268292683" rx="10" fill="#F1F5F9" fill-opacity="0.45" stroke="#334155" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="112" y="235.1219512195122" font-size="22.53658536585366" font-weight="700" fill="#0F172A">Lớp 2 — Cách ly tiến trình của vỏ Tauri</text>
+<rect x="160" y="338.0487804878049" width="800" height="863.9024390243903" rx="10" fill="#E0F2FE" fill-opacity="0.45" stroke="#0284C7" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="172" y="366.5853658536586" font-size="22.53658536585366" font-weight="700" fill="#0C4A6E">Lớp 3 — Kiểm soát nguồn mã thực thi</text>
+<rect x="220" y="469.51219512195127" width="680" height="600.9756097560976" rx="10" fill="#ECFDF5" fill-opacity="0.45" stroke="#059669" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="232" y="498.04878048780495" font-size="22.53658536585366" font-weight="700" fill="#064E3B">Lớp 4 — Vệ sinh dữ liệu đầu vào</text>
+<rect x="280" y="600.9756097560976" width="560" height="338.0487804878049" rx="10" fill="#FFF7ED" fill-opacity="0.45" stroke="#EA580C" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="292" y="629.5121951219512" font-size="22.53658536585366" font-weight="700" fill="#7C2D12">Lớp 5 — Mật mã trên tài liệu</text>
+<rect x="300" y="657.3170731707318" width="520" height="112.6829268292683" rx="15.02439024390244" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="560.0" y="698.8" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#7C2D12">qpdf-wasm: mã hoá AES-256, đặt mật khẩu</text>
+<text x="560.0" y="722.5" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#7C2D12">người dùng và chủ sở hữu, cờ hạn chế</text>
+<text x="560.0" y="746.1" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#7C2D12">in/sao chép/sửa</text>
+<rect x="300" y="788.7804878048781" width="520" height="116.43902439024392" rx="15.02439024390244" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="560.0" y="820.3" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#7C2D12">zgapdfsigner + node-forge: ký số X.509</text>
+<text x="560.0" y="844.0" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#7C2D12">từ PFX/PEM, khoá riêng chỉ tồn tại trong</text>
+<text x="560.0" y="867.7" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#7C2D12">bộ nhớ trang; đóng dấu thời gian RFC</text>
+<text x="560.0" y="891.3" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#7C2D12">3161</text>
+<rect x="240" y="1025.4146341463415" width="640" height="84.97560975609757" rx="15.02439024390244" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="560.0" y="1053.1" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#064E3B">sanitize.ts: gỡ JavaScript, tệp nhúng, siêu dữ</text>
+<text x="560.0" y="1076.7" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#064E3B">liệu, chú thích, liên kết, cây cấu trúc; redact.ts</text>
+<text x="560.0" y="1100.4" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#064E3B">xoá vĩnh viễn nội dung</text>
+<rect x="240" y="1115.5609756097563" width="640" height="84.97560975609757" rx="15.02439024390244" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="560.0" y="1143.2" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#064E3B">DOMPurify + escapeHtml + sanitizeEmailHtml cho mọi</text>
+<text x="560.0" y="1166.9" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#064E3B">nội dung do tệp cung cấp; 22 ca kiểm thử tái hiện</text>
+<text x="560.0" y="1190.5" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#064E3B">tấn công XSS</text>
+<rect x="180" y="1220.7317073170732" width="760" height="78.87804878048782" rx="15.02439024390244" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="560.0" y="1257.2" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#0C4A6E">WasmProvider: chỉ chấp nhận URL thuộc danh sách máy chủ tin</text>
+<text x="560.0" y="1280.8" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#0C4A6E">cậy; URL lạ trong localStorage bị loại bỏ khi khởi động</text>
+<rect x="120" y="1314.6341463414635" width="880" height="78.87804878048782" rx="15.02439024390244" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/>
+<text x="560.0" y="1351.1" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#0F172A">capabilities/default.json chỉ cấp core:default — WebView không có</text>
+<text x="560.0" y="1374.7" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#0F172A">quyền hệ tệp; mọi thao tác ghi đi qua lệnh save_file của Rust</text>
+<rect x="60" y="1404.780487804878" width="1000" height="61.31707317073171" rx="15.02439024390244" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="560.0" y="1432.4" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#1E1B4B">Không có tài khoản, không có phiên đăng nhập, không có nhật ký phía máy chủ,</text>
+<text x="560.0" y="1456.1" font-size="20.658536585365855" text-anchor="middle" font-weight="400" fill="#1E1B4B">không có dữ liệu đo đạc gửi đi</text>
+</svg>

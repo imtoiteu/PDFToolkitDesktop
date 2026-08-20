@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1140" height="1400" viewBox="0 0 1140 1400" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1140" height="1400" fill="#FFFFFF"/>
+<rect x="40" y="80.0" width="520" height="840.0" rx="10" fill="#EEF2FF" fill-opacity="0.45" stroke="#4F46E5" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="52" y="110.0" font-size="24.0" font-weight="700" fill="#1E1B4B">Ngữ cảnh WebView (JavaScript)</text>
+<rect x="600" y="80.0" width="500" height="840.0" rx="10" fill="#F1F5F9" fill-opacity="0.45" stroke="#334155" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="612" y="110.0" font-size="24.0" font-weight="700" fill="#0F172A">Ngữ cảnh Rust (tiến trình native)</text>
+<path d="M 300.0 312.0 L 300.0 352.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 300.0 464.0 L 300.0 492.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 60.0 576.0 L 180.0 576.0 L 180.0 680.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<rect x="142.0" y="546.0" width="60.0" height="26.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="172.0" y="566.0" font-size="20.0" text-anchor="middle" fill="#334155">Không</text>
+<path d="M 540.0 576.0 L 420.0 576.0 L 420.0 680.0" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="413.6" y="546.0" width="28.8" height="26.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="428.0" y="566.0" font-size="20.0" text-anchor="middle" fill="#334155">Có</text>
+<path d="M 530.0 776.0 L 570.0 776.0 L 570.0 260.0 L 630.0 260.5" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="519.2" y="478.0" width="101.6" height="26.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="570.0" y="498.0" font-size="20.0" text-anchor="middle" fill="#334155">IPC Tauri</text>
+<path d="M 850.0 321.0 L 850.0 360.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 850.0 480.0 L 850.0 520.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 850.0 640.0 L 850.0 660.0 L 735.0 660.0 L 735.0 680.0" fill="none" stroke="#059669" stroke-width="1.6" marker-end="url(#arwg)"/>
+<rect x="778.1" y="630.0" width="28.8" height="26.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="792.5" y="650.0" font-size="20.0" text-anchor="middle" fill="#334155">Có</text>
+<path d="M 1070.0 580.0 L 1090.0 580.0 L 1090.0 640.0 L 965.0 640.0 L 965.0 680.0" fill="none" stroke="#DC2626" stroke-width="1.6" marker-end="url(#arwd)"/>
+<rect x="1017.5" y="610.0" width="60.0" height="26.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="1047.5" y="630.0" font-size="20.0" text-anchor="middle" fill="#334155">Không</text>
+<rect x="70" y="200.0" width="460" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="300.0" y="253.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">Mô-đun nghiệp vụ sinh Blob kết</text>
+<text x="300.0" y="280.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">quả</text>
+<rect x="70" y="352.0" width="460" height="112.0" rx="16.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="300.0" y="392.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">downloadFile(blob, filename)</text>
+<text x="300.0" y="421.0" font-size="22.0" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">src/js/utils/helpers.ts — ~311</text>
+<text x="300.0" y="446.0" font-size="22.0" text-anchor="middle" fill="#0C4A6E" fill-opacity="0.75">điểm gọi</text>
+<path d="M 300.0 492.0 L 540 576.0 L 300.0 660.0 L 60 576.0 Z" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="300.0" y="561.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12">isTauriRuntime()</text>
+<text x="300.0" y="588.0" font-size="20.0" text-anchor="middle" fill="#713F12" fill-opacity="0.75">__TAURI_INTERNALS__ /</text>
+<text x="300.0" y="611.0" font-size="20.0" text-anchor="middle" fill="#713F12" fill-opacity="0.75">__TAURI__</text>
+<rect x="70" y="680.0" width="220" height="192.0" rx="16.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="180.0" y="723.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">browserDownload</text>
+<text x="180.0" y="748.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">()</text>
+<text x="180.0" y="773.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">&lt;a download&gt; +</text>
+<text x="180.0" y="798.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">createObjectURL</text>
+<text x="180.0" y="823.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">+</text>
+<text x="180.0" y="848.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">revokeObjectURL</text>
+<rect x="310" y="680.0" width="220" height="192.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="420.0" y="723.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">tauriSaveFile()</text>
+<text x="420.0" y="748.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">blob.arrayBuffe</text>
+<text x="420.0" y="773.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">r() →</text>
+<text x="420.0" y="798.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">Uint8Array → in</text>
+<text x="420.0" y="823.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">voke(&#x27;save_file</text>
+<text x="420.0" y="848.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">&#x27;)</text>
+<rect x="630" y="200.0" width="440" height="121.0" rx="16.0" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/>
+<text x="850.0" y="231.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#0F172A">#[tauri::command] async fn</text>
+<text x="850.0" y="258.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#0F172A">save_file</text>
+<text x="850.0" y="287.0" font-size="22.0" text-anchor="middle" fill="#0F172A" fill-opacity="0.75">tham số: filename: String,</text>
+<text x="850.0" y="312.0" font-size="22.0" text-anchor="middle" fill="#0F172A" fill-opacity="0.75">bytes: Vec&lt;u8&gt;</text>
+<rect x="630" y="360.0" width="440" height="120.0" rx="16.0" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/>
+<text x="850.0" y="404.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#0F172A">app.dialog().file()</text>
+<text x="850.0" y="433.0" font-size="22.0" text-anchor="middle" fill="#0F172A" fill-opacity="0.75">.set_file_name(&amp;filename).block</text>
+<text x="850.0" y="458.0" font-size="22.0" text-anchor="middle" fill="#0F172A" fill-opacity="0.75">ing_save_file()</text>
+<path d="M 850.0 520.0 L 1070 580.0 L 850.0 640.0 L 630 580.0 Z" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="850.0" y="577.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12">Người dùng chọn vị</text>
+<text x="850.0" y="602.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#713F12">trí?</text>
+<rect x="630" y="680.0" width="210" height="192.0" rx="16.0" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/>
+<text x="735.0" y="760.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">std::fs::write</text>
+<text x="735.0" y="785.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">(path, bytes)</text>
+<text x="735.0" y="810.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">→ Ok(true)</text>
+<rect x="860" y="680.0" width="210" height="192.0" rx="16.0" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="965.0" y="748.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">None →</text>
+<text x="965.0" y="773.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">Ok(false)</text>
+<text x="965.0" y="798.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">(huỷ, không</text>
+<text x="965.0" y="823.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">phải lỗi)</text>
+<rect x="40" y="1000.0" width="1060" height="120.0" rx="16.0" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="570.0" y="1044.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">capabilities/default.json chỉ khai báo quyền core:default — WebView KHÔNG có</text>
+<text x="570.0" y="1069.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">quyền fs hay dialog; toàn bộ tương tác với hệ tệp phải đi qua đúng một lệnh</text>
+<text x="570.0" y="1094.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">Rust duy nhất</text>
+<rect x="40" y="1160.0" width="1060" height="120.0" rx="16.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="570.0" y="1217.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">Cơ chế dự phòng: nếu invoke(&#x27;save_file&#x27;) ném lỗi, tauriSaveFile() ghi log và</text>
+<text x="570.0" y="1242.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">gọi lại browserDownload() để kết quả không bị mất</text>
+</svg>

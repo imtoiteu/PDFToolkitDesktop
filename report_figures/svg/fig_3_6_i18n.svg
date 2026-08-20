@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1160" height="1560" viewBox="0 0 1160 1560" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1160" height="1560" fill="#FFFFFF"/>
+<path d="M 380.0 156.0 L 420.0 164.5" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 760.0 164.5 L 800.0 156.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 960.0 232.0 L 960.0 280.0 L 300.0 280.0 L 300.0 320.0" fill="none" stroke="#059669" stroke-width="1.6" marker-end="url(#arwg)"/>
+<rect x="557.2" y="250.0" width="153.6" height="26.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="634.0" y="270.0" font-size="20.0" text-anchor="middle" fill="#334155">tải tài nguyên</text>
+<path d="M 560.0 450.0 L 600.0 450.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 860.0 580.0 L 860.0 630.0 L 300.0 630.0 L 300.0 680.0" fill="none" stroke="#0284C7" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 860.0 580.0 L 860.0 680.0" fill="none" stroke="#DC2626" stroke-width="1.6" marker-end="url(#arwd)"/>
+<path d="M 860.0 980.0 L 580.0 1060.0" fill="none" stroke="#DC2626" stroke-width="1.6" marker-end="url(#arwd)"/>
+<rect x="40" y="80.0" width="340" height="152.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="210.0" y="140.0" font-size="24.0" text-anchor="middle" font-weight="700" fill="#1E1B4B">init() trong main.ts</text>
+<text x="210.0" y="169.0" font-size="22.0" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">nếu localStorage chưa có</text>
+<text x="210.0" y="194.0" font-size="22.0" text-anchor="middle" fill="#1E1B4B" fill-opacity="0.75">i18nextLng thì đặt &#x27;vi&#x27;</text>
+<rect x="420" y="80.0" width="340" height="169.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="111.0" font-size="24.0" text-anchor="middle" font-weight="700" fill="#064E3B">getLanguageFromUrl()</text>
+<text x="590.0" y="140.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">thứ tự: tiền tố URL →</text>
+<text x="590.0" y="165.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">localStorage →</text>
+<text x="590.0" y="190.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">navigator.languages →</text>
+<text x="590.0" y="215.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">VITE_DEFAULT_LANGUAGE →</text>
+<text x="590.0" y="240.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">&#x27;en&#x27;</text>
+<rect x="800" y="80.0" width="320" height="152.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="960.0" y="127.5" font-size="24.0" text-anchor="middle" font-weight="700" fill="#064E3B">initI18n()</text>
+<text x="960.0" y="156.5" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">i18next + HttpBackend,</text>
+<text x="960.0" y="181.5" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">hai không gian tên</text>
+<text x="960.0" y="206.5" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">common và tools</text>
+<path d="M 40 320.0 H 532.0 L 560 348.0 V 580.0 H 40 Z" fill="#FEFCE8" stroke="#CA8A04" stroke-width="1.4"/><path d="M 532.0 320.0 V 348.0 H 560" fill="none" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="50" y="359.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">public/locales/&lt;lang&gt;/common.json</text>
+<text x="50" y="384.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">·  tools.json</text>
+<text x="50" y="409.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12"></text>
+<text x="50" y="434.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">21 ngôn ngữ: en, vi, ar, be, da,</text>
+<text x="50" y="459.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">de, es, fr, id, it, ja, ko, nl,</text>
+<text x="50" y="484.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">pt, ru, sk, sv, tr, uk, zh, zh-TW</text>
+<text x="50" y="509.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">Bản tiếng Việt: 272 khoá trong</text>
+<text x="50" y="534.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">common.json và 890 khoá trong</text>
+<text x="50" y="559.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">tools.json</text>
+<rect x="600" y="320.0" width="520" height="260.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="610" y="384.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">applyTranslations()</text>
+<text x="610" y="409.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B"></text>
+<text x="610" y="434.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">Duyệt mọi phần tử mang data-i18n và</text>
+<text x="610" y="459.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">thay nội dung;</text>
+<text x="610" y="484.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">injectLanguageSwitcher() thêm bộ chọn</text>
+<text x="610" y="509.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">ngôn ngữ; setLanguageInPlace() đổi</text>
+<text x="610" y="534.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">ngôn ngữ mà không tải lại trang</text>
+<rect x="40" y="680.0" width="520" height="300.0" rx="16.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="50" y="764.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">Bản web (production)</text>
+<text x="50" y="789.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E"></text>
+<text x="50" y="814.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">scripts/generate-i18n-pages.mjs sinh</text>
+<text x="50" y="839.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">sẵn thư mục /vi/, /fr/, … cho từng</text>
+<text x="50" y="864.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">trang; rewriteLinks() thêm tiền tố</text>
+<text x="50" y="889.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">ngôn ngữ vào mọi liên kết nội bộ;</text>
+<text x="50" y="914.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">sitemap và thẻ hreflang được sinh kèm</text>
+<rect x="600" y="680.0" width="520" height="300.0" rx="16.0" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="610" y="739.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#7F1D1D">Bản desktop (Tauri)</text>
+<text x="610" y="764.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#7F1D1D"></text>
+<text x="610" y="789.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#7F1D1D">Không sinh trang theo ngôn ngữ.</text>
+<text x="610" y="814.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#7F1D1D">rewriteLinks() phải bỏ qua, nếu không</text>
+<text x="610" y="839.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#7F1D1D">mọi liên kết sẽ trỏ tới</text>
+<text x="610" y="864.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#7F1D1D">/vi/&lt;tool&gt;.html không tồn tại — đây</text>
+<text x="610" y="889.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#7F1D1D">chính là lỗi thẻ công cụ không bấm</text>
+<text x="610" y="914.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#7F1D1D">được ở lần tải đầu, đã sửa ở commit</text>
+<text x="610" y="939.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#7F1D1D">4a63fa9</text>
+<rect x="40" y="1060.0" width="1080" height="180.0" rx="16.0" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="580.0" y="1097.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7C2D12">Điều kiện bảo vệ sau khi sửa lỗi (src/js/i18n/i18n.ts)</text>
+<text x="580.0" y="1122.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7C2D12"></text>
+<text x="580.0" y="1147.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7C2D12">const isTauri = import.meta.env.MODE === &#x27;tauri&#x27; || &#x27;__TAURI_INTERNALS__&#x27; in</text>
+<text x="580.0" y="1172.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7C2D12">window || &#x27;__TAURI__&#x27; in window;</text>
+<text x="580.0" y="1197.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7C2D12">if (import.meta.env.DEV || isTauri) return;   // giữ nguyên liên kết phẳng, dùng</text>
+<text x="580.0" y="1222.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7C2D12">cơ chế đổi ngôn ngữ tại chỗ</text>
+<rect x="40" y="1300.0" width="1080" height="180.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="580.0" y="1337.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">Nguyên tắc thiết kế bảo đảm tính ổn định</text>
+<text x="580.0" y="1362.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<text x="580.0" y="1387.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">Danh mục và công cụ được định danh bằng tên nội bộ cố định (getToolIdFromHref</text>
+<text x="580.0" y="1412.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">lấy phần tên tệp .html); chỉ nhãn hiển thị được dịch. Nhờ vậy việc đổi ngôn ngữ</text>
+<text x="580.0" y="1437.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">không làm thay đổi định danh, không ảnh hưởng tới cấu hình DISABLE_TOOLS hay</text>
+<text x="580.0" y="1462.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">config.json.</text>
+</svg>

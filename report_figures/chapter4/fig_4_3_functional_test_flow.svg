@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1160" height="1520" viewBox="0 0 1160 1520" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1160" height="1520" fill="#FFFFFF"/>
+<path d="M 510.0 192.0 L 510.0 216.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 510.0 328.0 L 510.0 352.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 510.0 464.0 L 510.0 488.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 510.0 600.0 L 510.0 624.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 510.0 736.0 L 510.0 760.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 510.0 872.0 L 510.0 896.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 510.0 1008.0 L 510.0 1032.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 510.0 1144.0 L 510.0 1168.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 510.0 1280.0 L 510.0 1304.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<rect x="120" y="80.0" width="780" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="130" y="120.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">1.  Chuẩn bị dữ liệu thử: PDF văn bản, PDF nhiều trang,</text>
+<text x="130" y="145.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">PDF quét, PDF có mật khẩu, ảnh JPG/PNG/TIFF, tài liệu văn</text>
+<text x="130" y="170.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">phòng</text>
+<rect x="120" y="216.0" width="780" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="130" y="269.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">2.  Chọn công cụ cần kiểm thử từ màn hình làm việc hoặc</text>
+<text x="130" y="294.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">mở trực tiếp trang công cụ</text>
+<rect x="120" y="352.0" width="780" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="130" y="405.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">3.  Nạp tệp bằng cả hai đường: hộp thoại chọn tệp của hệ</text>
+<text x="130" y="430.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">điều hành và kéo–thả vào drop-zone</text>
+<rect x="120" y="488.0" width="780" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="130" y="541.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">4.  Kiểm tra phản hồi giao diện: danh sách tệp, số trang,</text>
+<text x="130" y="566.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">ảnh thu nhỏ, thông báo lỗi khi tệp sai định dạng</text>
+<rect x="120" y="624.0" width="780" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="130" y="677.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">5.  Nhập tham số biên: khoảng trang rỗng, khoảng trang</text>
+<text x="130" y="702.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">không hợp lệ, mật khẩu sai, giá trị vượt số trang</text>
+<rect x="120" y="760.0" width="780" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="130" y="813.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">6.  Thực thi và quan sát loader; với thao tác dài kiểm</text>
+<text x="130" y="838.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">tra giao diện không bị treo</text>
+<rect x="120" y="896.0" width="780" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="130" y="949.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">7.  Kiểm tra hộp thoại lưu native: lưu thành công, huỷ</text>
+<text x="130" y="974.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">hộp thoại, ghi đè tệp đã tồn tại</text>
+<rect x="120" y="1032.0" width="780" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="130" y="1085.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">8.  Mở tệp kết quả bằng trình đọc PDF độc lập để xác nhận</text>
+<text x="130" y="1110.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">tính hợp lệ của tài liệu</text>
+<rect x="120" y="1168.0" width="780" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="130" y="1208.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">9.  Lặp lại toàn bộ trong trạng thái ngắt kết nối mạng và</text>
+<text x="130" y="1233.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">quan sát tab Network để xác nhận không có yêu cầu ra</text>
+<text x="130" y="1258.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">ngoài</text>
+<rect x="120" y="1304.0" width="780" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="130" y="1357.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">10.  Ghi nhận kết quả theo mẫu: mã ca, đầu vào, thao tác,</text>
+<text x="130" y="1382.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#064E3B">kết quả mong đợi, kết quả thực tế, kết luận Đạt/Không đạt</text>
+<path d="M 930 240.0 H 1102.0 L 1130 268.0 V 640.0 H 930 Z" fill="#E0F2FE" stroke="#0284C7" stroke-width="1.4"/><path d="M 1102.0 240.0 V 268.0 H 1130" fill="none" stroke="#0284C7" stroke-width="2.56"/>
+<text x="940" y="299.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">Phân loại ca</text>
+<text x="940" y="324.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">kiểm thử</text>
+<text x="940" y="349.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E"></text>
+<text x="940" y="374.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">• Đường đi</text>
+<text x="940" y="399.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">thuận lợi</text>
+<text x="940" y="424.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">• Giá trị</text>
+<text x="940" y="449.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">biên</text>
+<text x="940" y="474.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">• Đầu vào</text>
+<text x="940" y="499.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">không hợp lệ</text>
+<text x="940" y="524.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">• Huỷ giữa</text>
+<text x="940" y="549.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">chừng</text>
+<text x="940" y="574.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">• Tài liệu</text>
+<text x="940" y="599.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#0C4A6E">lớn</text>
+<path d="M 930 800.0 H 1102.0 L 1130 828.0 V 1200.0 H 930 Z" fill="#FEFCE8" stroke="#CA8A04" stroke-width="1.4"/><path d="M 1102.0 800.0 V 828.0 H 1130" fill="none" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="940" y="859.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">Bằng chứng</text>
+<text x="940" y="884.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">thu thập</text>
+<text x="940" y="909.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12"></text>
+<text x="940" y="934.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">• Ảnh chụp</text>
+<text x="940" y="959.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">màn hình</text>
+<text x="940" y="984.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">• Tệp kết</text>
+<text x="940" y="1009.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">quả</text>
+<text x="940" y="1034.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">• Nhật ký</text>
+<text x="940" y="1059.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">console</text>
+<text x="940" y="1084.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">• Danh sách</text>
+<text x="940" y="1109.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">yêu cầu mạng</text>
+<text x="940" y="1134.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">• Dung lượng</text>
+<text x="940" y="1159.5" font-size="22.0" text-anchor="start" font-weight="400" fill="#713F12">trước/sau</text>
+<rect x="10" y="1320.0" width="1140" height="140.0" rx="16.0" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="580.0" y="1362.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">Trạng thái hiện tại: quy trình trên đã được đặc tả đầy đủ và một phần đã được phản</text>
+<text x="580.0" y="1387.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">ánh trong danh sách kiểm tra khói của DESKTOP.md, nhưng chưa được thực hiện trên ứng</text>
+<text x="580.0" y="1412.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">dụng đã đóng gói trong phạm vi đề tài này; các bảng kết quả trong Chương 4 vì vậy để</text>
+<text x="580.0" y="1437.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">trống cột &#x27;kết quả thực tế&#x27;.</text>
+</svg>

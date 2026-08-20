@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1160" height="1520" viewBox="0 0 1160 1520" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1160" height="1520" fill="#FFFFFF"/>
+<rect x="40" y="80.0" width="540" height="640.0" rx="10" fill="#ECFDF5" fill-opacity="0.45" stroke="#059669" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="52" y="110.0" font-size="24.0" font-weight="700" fill="#064E3B">Kiểm thử tự động (bộ kiểm thử có sẵn trong kho mã)</text>
+<rect x="620" y="80.0" width="500" height="640.0" rx="10" fill="#FEF2F2" fill-opacity="0.45" stroke="#DC2626" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="632" y="110.0" font-size="24.0" font-weight="700" fill="#7F1D1D">Phân tích tĩnh và quét bảo mật</text>
+<rect x="40" y="800.0" width="1080" height="400.0" rx="10" fill="#EEF2FF" fill-opacity="0.45" stroke="#4F46E5" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="52" y="830.0" font-size="24.0" font-weight="700" fill="#1E1B4B">Kiểm thử thủ công trên ứng dụng đã đóng gói</text>
+<rect x="66" y="184.0" width="488" height="120.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="310.0" y="228.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">Vitest 4 + môi trường jsdom 28</text>
+<text x="310.0" y="257.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">cấu hình trong vite.config.ts →</text>
+<text x="310.0" y="282.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">test</text>
+<rect x="66" y="328.0" width="488" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="310.0" y="368.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">src/tests/setup.ts</text>
+<text x="310.0" y="397.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">thiết lập chung trước mỗi bộ kiểm</text>
+<text x="310.0" y="422.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">thử</text>
+<rect x="66" y="464.0" width="488" height="112.0" rx="16.0" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="310.0" y="503.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">Đo độ phủ bằng</text>
+<text x="310.0" y="530.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#064E3B">@vitest/coverage-v8</text>
+<text x="310.0" y="559.0" font-size="22.0" text-anchor="middle" fill="#064E3B" fill-opacity="0.75">npm run test:coverage</text>
+<rect x="66" y="600.0" width="488" height="88.0" rx="8.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="310.0" y="641.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">npm run test  ·  test:run  ·</text>
+<text x="310.0" y="666.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">test:ui  ·  test:watch</text>
+<rect x="646" y="184.0" width="448" height="120.0" rx="16.0" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="870.0" y="228.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">ESLint 10 + typescript-eslint</text>
+<text x="870.0" y="257.0" font-size="22.0" text-anchor="middle" fill="#7F1D1D" fill-opacity="0.75">eslint-plugin-security, eslint-</text>
+<text x="870.0" y="282.0" font-size="22.0" text-anchor="middle" fill="#7F1D1D" fill-opacity="0.75">plugin-no-unsanitized</text>
+<rect x="646" y="328.0" width="448" height="112.0" rx="16.0" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="870.0" y="368.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">npm run lint:security</text>
+<text x="870.0" y="397.0" font-size="22.0" text-anchor="middle" fill="#7F1D1D" fill-opacity="0.75">no-unsanitized/method|property,</text>
+<text x="870.0" y="422.0" font-size="22.0" text-anchor="middle" fill="#7F1D1D" fill-opacity="0.75">detect-eval-with-expression</text>
+<rect x="646" y="464.0" width="448" height="112.0" rx="16.0" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="870.0" y="504.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">CodeQL security-extended</text>
+<text x="870.0" y="533.0" font-size="22.0" text-anchor="middle" fill="#7F1D1D" fill-opacity="0.75">.github/workflows/codeql.yml —</text>
+<text x="870.0" y="558.0" font-size="22.0" text-anchor="middle" fill="#7F1D1D" fill-opacity="0.75">theo lịch hằng tuần</text>
+<rect x="646" y="600.0" width="448" height="88.0" rx="8.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="870.0" y="641.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">Trivy quét ảnh container  ·  npm</text>
+<text x="870.0" y="666.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">audit --audit-level=high</text>
+<rect x="66" y="900.0" width="190" height="132.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="161.0" y="938.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">Danh sách</text>
+<text x="161.0" y="963.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">kiểm tra khói</text>
+<text x="161.0" y="988.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">trong</text>
+<text x="161.0" y="1013.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">DESKTOP.md</text>
+<rect x="276" y="900.0" width="190" height="132.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="371.0" y="938.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">Chạy ngoại</text>
+<text x="371.0" y="963.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">tuyến</text>
+<text x="371.0" y="988.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">(ngắt kết nối</text>
+<text x="371.0" y="1013.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">mạng)</text>
+<rect x="486" y="900.0" width="190" height="132.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="581.0" y="950.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">Quan sát tab</text>
+<text x="581.0" y="975.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">Network</text>
+<text x="581.0" y="1000.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">của DevTools</text>
+<rect x="696" y="900.0" width="190" height="139.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="791.0" y="929.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">Kiểm tra hộp</text>
+<text x="791.0" y="954.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">thoại lưu</text>
+<text x="791.0" y="979.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">native và</text>
+<text x="791.0" y="1004.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">trường hợp</text>
+<text x="791.0" y="1029.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">huỷ</text>
+<rect x="906" y="900.0" width="190" height="132.0" rx="16.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="1001.0" y="938.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">Đổi ngôn ngữ</text>
+<text x="1001.0" y="963.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">VI ⇄ EN</text>
+<text x="1001.0" y="988.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">và khởi động</text>
+<text x="1001.0" y="1013.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#1E1B4B">lại</text>
+<rect x="66" y="1060.0" width="1030" height="100.0" rx="8.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="581.0" y="1094.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">Bao gồm các thao tác đại diện: Merge PDF (pdf-lib/cpdf) · JPG → PDF ·</text>
+<text x="581.0" y="1119.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">Compress (Ghostscript) · PDF → PNG (PyMuPDF) · Encrypt/Decrypt (qpdf) · OCR</text>
+<text x="581.0" y="1144.5" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">(Tesseract, dữ liệu eng cục bộ)</text>
+<rect x="40" y="1260.0" width="1080" height="200.0" rx="16.0" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="580.0" y="1307.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">Giới hạn của môi trường thử nghiệm trong khuôn khổ đề tài</text>
+<text x="580.0" y="1332.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D"></text>
+<text x="580.0" y="1357.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">Máy chủ dùng để phân tích mã nguồn không có màn hình đồ hoạ và không đủ tài</text>
+<text x="580.0" y="1382.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">nguyên đĩa/bộ nhớ để cài đặt toàn bộ phụ thuộc và biên dịch ứng dụng. Vì vậy các</text>
+<text x="580.0" y="1407.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">số liệu về thời gian xử lý, mức tiêu thụ bộ nhớ và ảnh chụp giao diện chưa được</text>
+<text x="580.0" y="1432.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#7F1D1D">đo trực tiếp; báo cáo chỉ trình bày phương pháp đo và các tiêu chí đánh giá.</text>
+</svg>

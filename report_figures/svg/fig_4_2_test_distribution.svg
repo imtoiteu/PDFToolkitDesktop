@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1120" height="1240" viewBox="0 0 1120 1240" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1120" height="1240" fill="#FFFFFF"/>
+<rect x="60" y="180.0" width="250" height="89.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="70" y="209.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">Chuyển đổi và</text>
+<text x="70" y="234.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">nhập/xuất tệp (8</text>
+<text x="70" y="259.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">tệp)</text>
+<rect x="320" y="180.0" width="660.0" height="64.0" rx="8.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="650.0" y="222.5" font-size="24.0" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="60" y="272.0" width="250" height="64.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="70" y="301.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">Thao tác PDF lõi</text>
+<text x="70" y="326.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">(8 tệp)</text>
+<rect x="320" y="272.0" width="547.5824175824176" height="64.0" rx="8.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="593.7912087912089" y="314.5" font-size="24.0" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="60" y="364.0" width="250" height="64.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="70" y="393.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">Tiện ích và hạ</text>
+<text x="70" y="418.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">tầng (8 tệp)</text>
+<rect x="320" y="364.0" width="413.4065934065934" height="64.0" rx="8.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="526.7032967032967" y="406.5" font-size="24.0" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="60" y="456.0" width="250" height="64.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="70" y="485.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">Bảo mật, chữ ký</text>
+<text x="70" y="510.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">số, XSS (7 tệp)</text>
+<rect x="320" y="456.0" width="373.5164835164835" height="64.0" rx="8.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="506.75824175824175" y="498.5" font-size="24.0" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="60" y="548.0" width="250" height="64.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="70" y="577.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">OCR và biến đổi</text>
+<text x="70" y="602.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">hOCR (5 tệp)</text>
+<rect x="320" y="548.0" width="213.95604395604394" height="64.0" rx="8.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="426.97802197802196" y="590.5" font-size="24.0" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="60" y="640.0" width="250" height="64.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="70" y="669.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">So sánh tài liệu</text>
+<text x="70" y="694.0" font-size="22.0" text-anchor="start" font-weight="400" fill="#0F172A">(3 tệp)</text>
+<rect x="320" y="640.0" width="116.04395604395604" height="64.0" rx="8.0" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="378.02197802197804" y="682.5" font-size="24.0" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="318" y="172.0" width="2" height="540.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="319.0" y="452.5" font-size="24.0" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<path d="M 60 800.0 H 1032.0 L 1060 828.0 V 1160.0 H 60 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1.4"/><path d="M 1032.0 800.0 V 828.0 H 1060" fill="none" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="560.0" y="852.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">Nguồn số liệu: đếm trực tiếp số lời gọi it()/test() trong thư mục</text>
+<text x="560.0" y="877.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">src/tests của kho mã nguồn.</text>
+<text x="560.0" y="902.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<text x="560.0" y="927.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">Các tệp có nhiều ca nhất: hocr-transform (45) · pdf-operations</text>
+<text x="560.0" y="952.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">(42) · helpers (41) · comic-info (39) · image-effects (34) ·</text>
+<text x="560.0" y="977.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">password-prompt (33) · tiff-to-pdf (29) · diff-text-runs (28) ·</text>
+<text x="560.0" y="1002.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">deduplicate-filename (28) · xml-to-pdf (26) · watermark (23) ·</text>
+<text x="560.0" y="1027.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">xss-replay (22).</text>
+<text x="560.0" y="1052.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<text x="560.0" y="1077.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">Lưu ý: đây là số ca kiểm thử hiện có trong kho mã, không phải kết</text>
+<text x="560.0" y="1102.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">quả chạy — kết quả chạy chưa được thu thập trên môi trường phân</text>
+<text x="560.0" y="1127.0" font-size="22.0" text-anchor="middle" font-weight="400" fill="#0F172A">tích (xem Hình 4.1).</text>
+<text x="560" y="92.0" font-size="28.0" text-anchor="middle" font-weight="700" fill="#0F172A">Số ca kiểm thử theo nhóm chức năng (tổng 641 ca trong 39 tệp)</text>
+<text x="990.0" y="220.0" font-size="22.0" text-anchor="start" font-weight="700" fill="#0F172A">182 ca</text>
+<text x="877.5824175824176" y="312.0" font-size="22.0" text-anchor="start" font-weight="700" fill="#0F172A">151 ca</text>
+<text x="743.4065934065934" y="404.0" font-size="22.0" text-anchor="start" font-weight="700" fill="#0F172A">114 ca</text>
+<text x="703.5164835164835" y="496.0" font-size="22.0" text-anchor="start" font-weight="700" fill="#0F172A">103 ca</text>
+<text x="543.9560439560439" y="588.0" font-size="22.0" text-anchor="start" font-weight="700" fill="#0F172A">59 ca</text>
+<text x="446.04395604395603" y="680.0" font-size="22.0" text-anchor="start" font-weight="700" fill="#0F172A">32 ca</text>
+</svg>

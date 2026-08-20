@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="1622" viewBox="0 0 1180 1622" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1180" height="1622" fill="#FFFFFF"/>
+<rect x="300" y="54.083333333333336" width="580" height="1514.3333333333333" rx="10" fill="#EEF2FF" fill-opacity="0.45" stroke="#4F46E5" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="312" y="81.71666666666667" font-size="21.633333333333333" font-weight="700" fill="#1E1B4B">Ứng dụng PDF Toolkit Desktop</text>
+<path d="M 200.0 748.2 L 330.0 178.5" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 200.0 748.2 L 330.0 308.3" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 200.0 748.2 L 330.0 438.1" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 200.0 748.2 L 330.0 567.9" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 200.0 748.2 L 330.0 697.7" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 200.0 748.2 L 330.0 827.5" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 200.0 748.2 L 330.0 957.3" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 200.0 748.2 L 330.0 1087.1" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 200.0 748.2 L 330.0 1216.9" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 200.0 748.2 L 330.0 1346.7" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 200.0 748.2 L 330.0 1476.5" fill="none" stroke="#334155" stroke-width="1.6"/>
+<path d="M 850.0 178.5 L 970.0 369.6" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<rect x="873.2" y="246.0" width="73.6" height="24.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="910.0" y="264.0" font-size="18.02777777777778" text-anchor="middle" fill="#334155">đọc tệp</text>
+<path d="M 850.0 1346.7 L 915.0 1440.4 L 915.0 369.6 L 970.0 369.6" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<rect x="878.2" y="906.5" width="73.6" height="24.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="915.0" y="924.5" font-size="18.02777777777778" text-anchor="middle" fill="#334155">ghi tệp</text>
+<path d="M 850.0 957.3 L 970.0 1180.8" fill="none" stroke="#DB2777" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#arwp)"/>
+<rect x="770.1" y="1041.0" width="279.9" height="24.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="910.0" y="1059.0" font-size="18.02777777777778" text-anchor="middle" fill="#334155">«tuỳ chọn» đóng dấu thời gian</text>
+<circle cx="135.0" cy="674.2388888888889" r="18.0" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/><path d="M 135.0 692.3 L 135.0 735.5 M 109.8 706.7 L 160.2 706.7 M 135.0 735.5 L 113.4 768.0 M 135.0 735.5 L 156.6 768.0" fill="none" stroke="#334155" stroke-width="2.94" stroke-linecap="round"/>
+<text x="135.0" y="796.8277777777778" font-size="23.43611111111111" text-anchor="middle" font-weight="700" fill="#0F172A">Người</text>
+<text x="135.0" y="823.2638888888889" font-size="23.43611111111111" text-anchor="middle" font-weight="700" fill="#0F172A">dùng</text>
+<circle cx="1045.0" cy="295.65555555555557" r="18.0" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/><path d="M 1045.0 313.7 L 1045.0 356.9 M 1019.8 328.1 L 1070.2 328.1 M 1045.0 356.9 L 1023.4 389.4 M 1045.0 356.9 L 1066.6 389.4" fill="none" stroke="#334155" stroke-width="2.94" stroke-linecap="round"/>
+<text x="1045.0" y="418.24444444444447" font-size="21.633333333333333" text-anchor="middle" font-weight="700" fill="#0F172A">Hệ thống</text>
+<text x="1045.0" y="442.8777777777778" font-size="21.633333333333333" text-anchor="middle" font-weight="700" fill="#0F172A">tệp</text>
+<text x="1045.0" y="467.5111111111111" font-size="21.633333333333333" text-anchor="middle" font-weight="700" fill="#0F172A">cục bộ</text>
+<circle cx="1045.0" cy="1106.9055555555556" r="18.0" fill="#FDF2F8" stroke="#DB2777" stroke-width="2.56"/><path d="M 1045.0 1124.9 L 1045.0 1168.2 M 1019.8 1139.4 L 1070.2 1139.4 M 1045.0 1168.2 L 1023.4 1200.7 M 1045.0 1168.2 L 1066.6 1200.7" fill="none" stroke="#DB2777" stroke-width="2.94" stroke-linecap="round"/>
+<text x="1045.0" y="1229.4944444444445" font-size="21.633333333333333" text-anchor="middle" font-weight="700" fill="#831843">Máy chủ</text>
+<text x="1045.0" y="1254.127777777778" font-size="21.633333333333333" text-anchor="middle" font-weight="700" fill="#831843">TSA</text>
+<text x="1045.0" y="1278.7611111111112" font-size="21.633333333333333" text-anchor="middle" font-weight="700" fill="#831843">(RFC</text>
+<text x="1045.0" y="1303.3944444444446" font-size="21.633333333333333" text-anchor="middle" font-weight="700" fill="#831843">3161)</text>
+<ellipse cx="590.0" cy="178.475" rx="260.0" ry="52.28055555555556" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="175.5" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">Nạp tệp đầu vào</text>
+<text x="590.0" y="198.3" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">(chọn tệp / kéo–thả)</text>
+<ellipse cx="590.0" cy="308.275" rx="260.0" ry="52.28055555555556" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="305.3" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">Tổ chức và quản lý trang</text>
+<text x="590.0" y="328.1" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">(ghép, tách, xoay, xoá…)</text>
+<ellipse cx="590.0" cy="438.07500000000005" rx="260.0" ry="52.28055555555556" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="435.1" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">Chuyển đổi định dạng</text>
+<text x="590.0" y="457.9" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">(sang PDF / từ PDF)</text>
+<ellipse cx="590.0" cy="567.875" rx="260.0" ry="52.28055555555556" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="564.9" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">Chỉnh sửa và chú thích</text>
+<text x="590.0" y="587.7" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">tài liệu</text>
+<ellipse cx="590.0" cy="697.6750000000001" rx="260.0" ry="52.28055555555556" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="694.7" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">Nén và tối ưu hoá</text>
+<text x="590.0" y="717.5" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">tài liệu</text>
+<ellipse cx="590.0" cy="827.475" rx="260.0" ry="52.28055555555556" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="824.5" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">Bảo mật tài liệu</text>
+<text x="590.0" y="847.3" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">(mã hoá, giải mã, quyền)</text>
+<ellipse cx="590.0" cy="957.275" rx="260.0" ry="52.28055555555556" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="954.3" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">Ký số và kiểm tra</text>
+<text x="590.0" y="977.1" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">chữ ký số</text>
+<ellipse cx="590.0" cy="1087.075" rx="260.0" ry="52.28055555555556" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="1084.1" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">Nhận dạng ký tự quang học</text>
+<text x="590.0" y="1106.9" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">(OCR)</text>
+<ellipse cx="590.0" cy="1216.875" rx="260.0" ry="52.28055555555556" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="1213.9" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">Xây dựng luồng xử lý</text>
+<text x="590.0" y="1236.7" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">tự động (Workflow)</text>
+<ellipse cx="590.0" cy="1346.675" rx="260.0" ry="52.28055555555556" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="1343.7" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">Lưu kết quả bằng hộp thoại</text>
+<text x="590.0" y="1366.5" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">của hệ điều hành</text>
+<ellipse cx="590.0" cy="1476.4750000000001" rx="260.0" ry="52.28055555555556" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="590.0" y="1473.5" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">Thiết lập ngôn ngữ và</text>
+<text x="590.0" y="1496.3" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#064E3B">nguồn mô-đun WASM</text>
+<text x="590" y="1604.4722222222222" font-size="19.830555555555556" text-anchor="middle" font-weight="400" fill="#475569">Ghi chú: hệ thống không có tác nhân quản trị và không có máy chủ ứng dụng; mọi ca sử dụng được thực thi cục bộ.</text>
+</svg>

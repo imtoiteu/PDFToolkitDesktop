@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1460" height="2007" viewBox="0 0 1460 2007" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1460" height="2007" fill="#FFFFFF"/>
+<path d="M 115.0 167.6 L 115.0 1933.4" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 315.0 167.6 L 315.0 1933.4" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 535.0 167.6 L 535.0 1933.4" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 747.5 167.6 L 747.5 1933.4" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 947.5 167.6 L 947.5 1933.4" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 1155.0 167.6 L 1155.0 1933.4" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 1352.5 167.6 L 1352.5 1933.4" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 121.0 233.9 L 309.0 233.9" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="84.3" y="200.4" width="261.4" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="215.0" y="219.9" font-size="19.490291262135923" text-anchor="middle" fill="#334155">1. chọn / kéo-thả tệp PDF</text>
+<path d="M 321.0 335.2 L 529.0 335.2" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="269.0" y="301.7" width="312.0" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="425.0" y="321.2" font-size="19.490291262135923" text-anchor="middle" fill="#334155">2. batchDecryptIfNeeded(files)</text>
+<path d="M 529.0 436.6 L 321.0 436.6" fill="none" stroke="#059669" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#arwg)"/>
+<rect x="284.2" y="403.1" width="281.6" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="425.0" y="422.6" font-size="19.490291262135923" text-anchor="middle" fill="#334155">3. danh sách tệp đã giải mã</text>
+<path d="M 321.0 518.4 L 361.0 518.4 L 361.0 569.1 L 321.0 569.1" fill="none" stroke="#EA580C" stroke-width="1.6" marker-end="url(#arwo)"/>
+<rect x="268.8" y="508.3" width="484.3" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="511.0" y="527.8" font-size="19.490291262135923" text-anchor="middle" fill="#334155">4. pdfjsLib.getDocument() → số trang, thumbnail</text>
+<path d="M 121.0 639.3 L 309.0 639.3" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="-17.0" y="605.8" width="464.1" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="215.0" y="625.3" font-size="19.490291262135923" text-anchor="middle" fill="#334155">5. sắp xếp bằng SortableJS, nhập khoảng trang</text>
+<path d="M 121.0 740.6 L 309.0 740.6" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="79.2" y="707.1" width="271.5" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="215.0" y="726.6" font-size="19.490291262135923" text-anchor="middle" fill="#334155">6. bấm nút Merge → merge()</text>
+<path d="M 321.0 822.5 L 361.0 822.5 L 361.0 873.2 L 321.0 873.2" fill="none" stroke="#EA580C" stroke-width="1.6" marker-end="url(#arwo)"/>
+<rect x="294.2" y="812.3" width="433.7" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="511.0" y="831.8" font-size="19.490291262135923" text-anchor="middle" fill="#334155">7. isCpdfAvailable() → dựng danh sách jobs</text>
+<path d="M 321.0 943.3 L 741.5 943.3" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="284.0" y="909.8" width="494.5" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="531.2" y="929.3" font-size="19.490291262135923" text-anchor="middle" fill="#334155">8. postMessage({files, jobs, cpdfUrl}, transfer)</text>
+<path d="M 753.5 1044.7 L 941.5 1044.7" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="605.3" y="1011.2" width="484.3" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="847.5" y="1030.7" font-size="19.490291262135923" text-anchor="middle" fill="#334155">9. importScripts() → fromMemory / parsePagespec</text>
+<path d="M 753.5 1146.0 L 941.5 1146.0" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="640.8" y="1112.5" width="413.4" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="847.5" y="1132.0" font-size="19.490291262135923" text-anchor="middle" fill="#334155">10. mergeSame(pdfs, ranges) → toMemory()</text>
+<path d="M 941.5 1247.4 L 753.5 1247.4" fill="none" stroke="#059669" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#arwg)"/>
+<rect x="726.9" y="1213.9" width="241.1" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="847.5" y="1233.4" font-size="19.490291262135923" text-anchor="middle" fill="#334155">11. ArrayBuffer kết quả</text>
+<path d="M 741.5 1348.7 L 321.0 1348.7" fill="none" stroke="#059669" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#arwg)"/>
+<rect x="299.2" y="1315.2" width="464.1" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="531.2" y="1334.7" font-size="19.490291262135923" text-anchor="middle" fill="#334155">12. postMessage({status:&#x27;success&#x27;, pdfBytes})</text>
+<path d="M 321.0 1450.1 L 1149.0 1450.1" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="548.6" y="1416.6" width="372.9" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="735.0" y="1436.1" font-size="19.490291262135923" text-anchor="middle" fill="#334155">13. downloadFile(blob, &#x27;merged.pdf&#x27;)</text>
+<path d="M 1161.0 1551.4 L 1346.5 1551.4" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="1036.9" y="1517.9" width="433.7" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="1253.8" y="1537.4" font-size="19.490291262135923" text-anchor="middle" fill="#334155">14. invoke(&#x27;save_file&#x27;, {filename, bytes})</text>
+<path d="M 1346.5 1652.8 L 1161.0 1652.8" fill="none" stroke="#059669" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#arwg)"/>
+<rect x="1082.5" y="1619.3" width="342.5" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="1253.8" y="1638.8" font-size="19.490291262135923" text-anchor="middle" fill="#334155">15. true / false (người dùng huỷ)</text>
+<path d="M 309.0 1754.1 L 121.0 1754.1" fill="none" stroke="#059669" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#arwg)"/>
+<rect x="-17.0" y="1720.6" width="464.1" height="25.5" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="215.0" y="1740.1" font-size="19.490291262135923" text-anchor="middle" fill="#334155">16. showAlert(&#x27;Success&#x27;) + đặt lại trạng thái</text>
+<rect x="40" y="77.96116504854369" width="150" height="89.65533980582524" rx="15.592233009708737" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/>
+<text x="115.0" y="119.8" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#0F172A">Người</text>
+<text x="115.0" y="144.2" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#0F172A">dùng</text>
+<rect x="220" y="77.96116504854369" width="190" height="89.65533980582524" rx="15.592233009708737" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="119.8" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#1E1B4B">merge-pdf-</text>
+<text x="315.0" y="144.2" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#1E1B4B">page.ts</text>
+<rect x="440" y="77.96116504854369" width="190" height="89.65533980582524" rx="15.592233009708737" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="535.0" y="119.8" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#0C4A6E">password-</text>
+<text x="535.0" y="144.2" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#0C4A6E">prompt.ts</text>
+<rect x="660" y="77.96116504854369" width="175" height="89.65533980582524" rx="15.592233009708737" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="747.5" y="119.8" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#064E3B">merge.worke</text>
+<text x="747.5" y="144.2" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#064E3B">r.js</text>
+<rect x="855" y="77.96116504854369" width="185" height="89.65533980582524" rx="15.592233009708737" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="947.5" y="119.8" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#7C2D12">CoherentPDF</text>
+<text x="947.5" y="144.2" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#7C2D12">(WASM)</text>
+<rect x="1060" y="77.96116504854369" width="190" height="89.65533980582524" rx="15.592233009708737" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="1155.0" y="119.8" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#0C4A6E">helpers.down</text>
+<text x="1155.0" y="144.2" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#0C4A6E">loadFile</text>
+<rect x="1270" y="77.96116504854369" width="165" height="89.65533980582524" rx="15.592233009708737" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/>
+<text x="1352.5" y="119.8" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#0F172A">Rust</text>
+<text x="1352.5" y="144.2" font-size="21.439320388349515" text-anchor="middle" font-weight="700" fill="#0F172A">save_file</text>
+<rect x="110.0" y="1933.4368932038833" width="10" height="27.28640776699029" rx="7.796116504854369" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="115.0" y="1953.4" font-size="15.592233009708737" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="310.0" y="1933.4368932038833" width="10" height="27.28640776699029" rx="7.796116504854369" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="315.0" y="1953.4" font-size="15.592233009708737" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="530.0" y="1933.4368932038833" width="10" height="27.28640776699029" rx="7.796116504854369" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="535.0" y="1953.4" font-size="15.592233009708737" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="742.5" y="1933.4368932038833" width="10" height="27.28640776699029" rx="7.796116504854369" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="747.5" y="1953.4" font-size="15.592233009708737" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="942.5" y="1933.4368932038833" width="10" height="27.28640776699029" rx="7.796116504854369" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="947.5" y="1953.4" font-size="15.592233009708737" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="1150.0" y="1933.4368932038833" width="10" height="27.28640776699029" rx="7.796116504854369" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="1155.0" y="1953.4" font-size="15.592233009708737" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="1347.5" y="1933.4368932038833" width="10" height="27.28640776699029" rx="7.796116504854369" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="1352.5" y="1953.4" font-size="15.592233009708737" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="109.0" y="212.44417475728153" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="115.0" y="244.1" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="212.44417475728153" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="244.1" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="313.79368932038835" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="345.4" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="529.0" y="313.79368932038835" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="535.0" y="345.4" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="529.0" y="415.1432038834951" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="535.0" y="446.8" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="415.1432038834951" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="446.8" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="498.9514563106796" width="12" height="38.980582524271846" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="528.6" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="549.626213592233" width="12" height="38.980582524271846" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="579.3" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="109.0" y="617.8422330097087" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="115.0" y="649.5" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="617.8422330097087" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="649.5" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="109.0" y="719.1917475728155" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="115.0" y="750.8" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="719.1917475728155" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="750.8" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="803.0" width="12" height="38.980582524271846" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="832.7" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="853.6747572815534" width="12" height="38.980582524271846" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="883.4" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="921.8907766990291" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="953.5" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="741.5" y="921.8907766990291" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="747.5" y="953.5" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="741.5" y="1023.2402912621359" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="747.5" y="1054.9" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="941.5" y="1023.2402912621359" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="947.5" y="1054.9" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="741.5" y="1124.5898058252426" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="747.5" y="1156.2" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="941.5" y="1124.5898058252426" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="947.5" y="1156.2" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="941.5" y="1225.9393203883494" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="947.5" y="1257.6" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="741.5" y="1225.9393203883494" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="747.5" y="1257.6" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="741.5" y="1327.2888349514562" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="747.5" y="1358.9" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="1327.2888349514562" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="1358.9" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="1428.638349514563" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="1460.3" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="1149.0" y="1428.638349514563" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="1155.0" y="1460.3" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="1149.0" y="1529.9878640776699" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="1155.0" y="1561.6" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="1346.5" y="1529.9878640776699" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="1352.5" y="1561.6" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="1346.5" y="1631.3373786407767" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="1352.5" y="1663.0" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="1149.0" y="1631.3373786407767" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="1155.0" y="1663.0" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="309.0" y="1732.6868932038835" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="315.0" y="1764.3" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="109.0" y="1732.6868932038835" width="12" height="42.87864077669903" rx="7.796116504854369" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="115.0" y="1764.3" font-size="23.388349514563107" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<text x="730" y="2050.378640776699" font-size="21.439320388349515" text-anchor="middle" font-weight="400" fill="#475569">Các nút CoherentPDF được giải phóng bằng deletePdf() ngay sau khi sinh kết quả; ArrayBuffer được chuyển quyền sở hữu (transferable) để tránh nhân đôi bộ nhớ.</text>
+</svg>

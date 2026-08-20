@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="1705" viewBox="0 0 1240 1705" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1240" height="1705" fill="#FFFFFF"/>
+<path d="M 115.0 162.9 L 115.0 1583.8" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 330.0 162.9 L 330.0 1583.8" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 575.0 162.9 L 575.0 1583.8" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 820.0 162.9 L 820.0 1583.8" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 1065.0 162.9 L 1065.0 1583.8" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-dasharray="6 4"/>
+<path d="M 121.0 227.3 L 324.0 227.3" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="124.9" y="194.4" width="195.2" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="222.5" y="213.3" font-size="18.944444444444443" text-anchor="middle" fill="#334155">1. chọn một tệp PDF</text>
+<path d="M 121.0 325.8 L 324.0 325.8" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="21.5" y="292.9" width="402.0" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="222.5" y="311.8" font-size="18.944444444444443" text-anchor="middle" fill="#334155">2. nhập mật khẩu người dùng / chủ sở hữu</text>
+<path d="M 336.0 405.4 L 376.0 405.4 L 376.0 454.7 L 336.0 454.7" fill="none" stroke="#EA580C" stroke-width="1.6" marker-end="url(#arwo)"/>
+<rect x="320.1" y="395.1" width="411.9" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="526.0" y="414.0" font-size="18.944444444444443" text-anchor="middle" fill="#334155">3. kiểm tra bắt buộc: userPassword ≠ rỗng</text>
+<path d="M 336.0 522.9 L 569.0 522.9" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="295.8" y="489.9" width="313.4" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="452.5" y="508.9" font-size="18.944444444444443" text-anchor="middle" fill="#334155">4. initializeQpdf() — singleton</text>
+<path d="M 581.0 621.4 L 814.0 621.4" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="496.5" y="588.4" width="402.0" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="697.5" y="607.4" font-size="18.944444444444443" text-anchor="middle" fill="#334155">5. createModule({locateFile: qpdf.wasm})</text>
+<path d="M 569.0 719.9 L 336.0 719.9" fill="none" stroke="#059669" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#arwg)"/>
+<rect x="226.9" y="686.9" width="451.3" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="452.5" y="705.9" font-size="18.944444444444443" text-anchor="middle" fill="#334155">6. thể hiện qpdf sẵn sàng (đã lưu vào bộ đệm)</text>
+<path d="M 336.0 818.4 L 814.0 818.4" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="393.7" y="785.5" width="362.6" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="575.0" y="804.4" font-size="18.944444444444443" text-anchor="middle" fill="#334155">7. FS.writeFile(&#x27;/input.pdf&#x27;, bytes)</text>
+<path d="M 336.0 916.9 L 814.0 916.9" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="319.8" y="884.0" width="510.4" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="575.0" y="902.9" font-size="18.944444444444443" text-anchor="middle" fill="#334155">8. callMain([--encrypt, u, o, 256, …, /output.pdf])</text>
+<path d="M 814.0 1015.4 L 336.0 1015.4" fill="none" stroke="#059669" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#arwg)"/>
+<rect x="457.7" y="982.5" width="234.6" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="575.0" y="1001.4" font-size="18.944444444444443" text-anchor="middle" fill="#334155">9. mã trả về / ngoại lệ</text>
+<path d="M 336.0 1113.9 L 814.0 1113.9" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="423.2" y="1081.0" width="303.5" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="575.0" y="1099.9" font-size="18.944444444444443" text-anchor="middle" fill="#334155">10. FS.readFile(&#x27;/output.pdf&#x27;)</text>
+<path d="M 336.0 1212.4 L 1059.0 1212.4" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="506.3" y="1179.5" width="382.3" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="697.5" y="1198.4" font-size="18.944444444444443" text-anchor="middle" fill="#334155">11. Blob → downloadFile(blob, tên gốc)</text>
+<path d="M 336.0 1311.0 L 814.0 1311.0" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="354.3" y="1278.0" width="441.4" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="575.0" y="1297.0" font-size="18.944444444444443" text-anchor="middle" fill="#334155">12. FS.unlink(&#x27;/input.pdf&#x27;) và &#x27;/output.pdf&#x27;</text>
+<path d="M 324.0 1409.5 L 121.0 1409.5" fill="none" stroke="#059669" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#arwg)"/>
+<rect x="26.4" y="1376.5" width="392.2" height="24.9" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="222.5" y="1395.5" font-size="18.944444444444443" text-anchor="middle" fill="#334155">13. showAlert(&#x27;Success&#x27;) + resetState()</text>
+<rect x="40" y="75.77777777777777" width="150" height="87.14444444444445" rx="15.155555555555555" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/>
+<text x="115.0" y="116.3" font-size="20.83888888888889" text-anchor="middle" font-weight="700" fill="#0F172A">Người</text>
+<text x="115.0" y="140.2" font-size="20.83888888888889" text-anchor="middle" font-weight="700" fill="#0F172A">dùng</text>
+<rect x="230" y="75.77777777777777" width="200" height="87.14444444444445" rx="15.155555555555555" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="116.3" font-size="20.83888888888889" text-anchor="middle" font-weight="700" fill="#1E1B4B">encrypt-pdf-</text>
+<text x="330.0" y="140.2" font-size="20.83888888888889" text-anchor="middle" font-weight="700" fill="#1E1B4B">page.ts</text>
+<rect x="470" y="75.77777777777777" width="210" height="87.14444444444445" rx="15.155555555555555" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="575.0" y="116.3" font-size="20.83888888888889" text-anchor="middle" font-weight="700" fill="#0C4A6E">helpers.initia</text>
+<text x="575.0" y="140.2" font-size="20.83888888888889" text-anchor="middle" font-weight="700" fill="#0C4A6E">lizeQpdf</text>
+<rect x="720" y="75.77777777777777" width="200" height="87.14444444444445" rx="15.155555555555555" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="820.0" y="116.3" font-size="20.83888888888889" text-anchor="middle" font-weight="700" fill="#7C2D12">qpdf-wasm</text>
+<text x="820.0" y="140.2" font-size="20.83888888888889" text-anchor="middle" font-weight="700" fill="#7C2D12">(MEMFS)</text>
+<rect x="960" y="75.77777777777777" width="210" height="87.14444444444445" rx="15.155555555555555" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/>
+<text x="1065.0" y="116.3" font-size="20.83888888888889" text-anchor="middle" font-weight="700" fill="#0F172A">downloadFile /</text>
+<text x="1065.0" y="140.2" font-size="20.83888888888889" text-anchor="middle" font-weight="700" fill="#0F172A">Tauri</text>
+<rect x="110.0" y="1583.7555555555555" width="10" height="26.522222222222222" rx="7.5777777777777775" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="115.0" y="1603.1" font-size="15.155555555555555" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="325.0" y="1583.7555555555555" width="10" height="26.522222222222222" rx="7.5777777777777775" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="330.0" y="1603.1" font-size="15.155555555555555" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="570.0" y="1583.7555555555555" width="10" height="26.522222222222222" rx="7.5777777777777775" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="575.0" y="1603.1" font-size="15.155555555555555" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="815.0" y="1583.7555555555555" width="10" height="26.522222222222222" rx="7.5777777777777775" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="820.0" y="1603.1" font-size="15.155555555555555" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="1060.0" y="1583.7555555555555" width="10" height="26.522222222222222" rx="7.5777777777777775" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="1065.0" y="1603.1" font-size="15.155555555555555" text-anchor="middle" font-weight="400" fill="#0F172A"></text>
+<rect x="109.0" y="206.49444444444444" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="115.0" y="237.2" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="206.49444444444444" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="237.2" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="109.0" y="305.00555555555553" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="115.0" y="335.7" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="305.00555555555553" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="335.7" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="386.46666666666664" width="12" height="37.888888888888886" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="415.3" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="435.72222222222223" width="12" height="37.888888888888886" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="464.5" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="502.02777777777777" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="532.7" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="569.0" y="502.02777777777777" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="575.0" y="532.7" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="569.0" y="600.5388888888889" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="575.0" y="631.2" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="814.0" y="600.5388888888889" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="820.0" y="631.2" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="569.0" y="699.05" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="575.0" y="729.8" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="699.05" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="729.8" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="797.5611111111111" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="828.3" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="814.0" y="797.5611111111111" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="820.0" y="828.3" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="896.0722222222222" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="926.8" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="814.0" y="896.0722222222222" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="820.0" y="926.8" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="814.0" y="994.5833333333333" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="820.0" y="1025.3" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="994.5833333333333" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="1025.3" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="1093.0944444444444" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="1123.8" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="814.0" y="1093.0944444444444" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="820.0" y="1123.8" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="1191.6055555555556" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="1222.3" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="1059.0" y="1191.6055555555556" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="1065.0" y="1222.3" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="1290.1166666666666" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="1320.8" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="814.0" y="1290.1166666666666" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="820.0" y="1320.8" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="324.0" y="1388.6277777777777" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="330.0" y="1419.3" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<rect x="109.0" y="1388.6277777777777" width="12" height="41.67777777777778" rx="7.5777777777777775" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="115.0" y="1419.3" font-size="22.733333333333334" text-anchor="middle" font-weight="400" fill="#1E1B4B"></text>
+<text x="620" y="1697.4222222222222" font-size="20.83888888888889" text-anchor="middle" font-weight="400" fill="#475569">Khối finally luôn gọi FS.unlink() cho cả tệp vào và tệp ra trong hệ tệp ảo MEMFS, kể cả khi qpdf ném ngoại lệ.</text>
+</svg>

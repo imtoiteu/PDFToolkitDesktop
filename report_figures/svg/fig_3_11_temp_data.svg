@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1160" height="1520" viewBox="0 0 1160 1520" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1160" height="1520" fill="#FFFFFF"/>
+<path d="M 300.0 150.0 L 340.0 150.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 600.0 150.0 L 640.0 150.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<rect x="590.0" y="120.0" width="60.0" height="26.0" rx="3" fill="#FFFFFF" fill-opacity="0.92" stroke="none"/>
+<text x="620.0" y="140.0" font-size="20.0" text-anchor="middle" fill="#334155">xử lý</text>
+<path d="M 900.0 150.0 L 940.0 150.0" fill="none" stroke="#475569" stroke-width="1.6" marker-end="url(#arw)"/>
+<path d="M 320.0 376.0 L 340.0 376.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 720.0 376.0 L 740.0 376.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 320.0 544.0 L 340.0 544.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 720.0 544.0 L 740.0 544.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 320.0 712.0 L 340.0 712.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 720.0 712.0 L 740.0 712.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 320.0 880.0 L 340.0 880.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 720.0 880.0 L 740.0 880.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 320.0 1048.0 L 340.0 1048.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 720.0 1048.0 L 740.0 1048.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 320.0 1216.0 L 340.0 1216.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 720.0 1216.0 L 740.0 1216.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 320.0 1384.0 L 340.0 1384.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<path d="M 720.0 1384.0 L 740.0 1384.0" fill="none" stroke="#CBD5E1" stroke-width="1.6"/>
+<rect x="40" y="80.0" width="260" height="140.0" rx="16.0" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="170.0" y="120.5" font-size="24.0" text-anchor="middle" font-weight="400" fill="#713F12">Tệp người dùng</text>
+<text x="170.0" y="147.5" font-size="24.0" text-anchor="middle" font-weight="400" fill="#713F12">chọn</text>
+<text x="170.0" y="176.5" font-size="22.0" text-anchor="middle" fill="#713F12" fill-opacity="0.75">đối tượng File của</text>
+<text x="170.0" y="201.5" font-size="22.0" text-anchor="middle" fill="#713F12" fill-opacity="0.75">trình duyệt</text>
+<rect x="340" y="80.0" width="260" height="140.0" rx="16.0" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="470.0" y="133.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#713F12">ArrayBuffer /</text>
+<text x="470.0" y="160.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#713F12">Uint8Array</text>
+<text x="470.0" y="189.0" font-size="22.0" text-anchor="middle" fill="#713F12" fill-opacity="0.75">file.arrayBuffer()</text>
+<rect x="640" y="80.0" width="260" height="140.0" rx="16.0" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2.56"/>
+<text x="770.0" y="121.5" font-size="24.0" text-anchor="middle" font-weight="400" fill="#713F12">Blob kết quả</text>
+<text x="770.0" y="150.5" font-size="22.0" text-anchor="middle" fill="#713F12" fill-opacity="0.75">application/pdf,</text>
+<text x="770.0" y="175.5" font-size="22.0" text-anchor="middle" fill="#713F12" fill-opacity="0.75">image/*,</text>
+<text x="770.0" y="200.5" font-size="22.0" text-anchor="middle" fill="#713F12" fill-opacity="0.75">application/zip</text>
+<rect x="940" y="80.0" width="180" height="140.0" rx="16.0" fill="#F1F5F9" stroke="#334155" stroke-width="2.56"/>
+<text x="1030.0" y="134.0" font-size="24.0" text-anchor="middle" font-weight="400" fill="#0F172A">Ghi ra đĩa</text>
+<text x="1030.0" y="163.0" font-size="22.0" text-anchor="middle" fill="#0F172A" fill-opacity="0.75">chỉ ở bước</text>
+<text x="1030.0" y="188.0" font-size="22.0" text-anchor="middle" fill="#0F172A" fill-opacity="0.75">cuối</text>
+<rect x="40" y="300.0" width="280" height="152.0" rx="16.0" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="180.0" y="373.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">Hệ tệp ảo MEMFS</text>
+<text x="180.0" y="398.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">của qpdf</text>
+<rect x="340" y="300.0" width="380" height="152.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="530.0" y="361.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">FS.writeFile(&#x27;/input.pdf&#x27;) →</text>
+<text x="530.0" y="384.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">callMain() →</text>
+<text x="530.0" y="407.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">FS.readFile(&#x27;/output.pdf&#x27;)</text>
+<rect x="740" y="300.0" width="380" height="152.0" rx="8.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="930.0" y="338.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">Khối finally gọi FS.unlink()</text>
+<text x="930.0" y="361.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">cho cả hai đường dẫn, kể cả</text>
+<text x="930.0" y="384.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">khi qpdf ném ngoại lệ; thể</text>
+<text x="930.0" y="407.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">hiện qpdf được giữ singleton</text>
+<text x="930.0" y="430.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">nên chỉ nạp một lần</text>
+<rect x="40" y="468.0" width="280" height="152.0" rx="16.0" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="180.0" y="541.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">Hệ tệp ảo của</text>
+<text x="180.0" y="566.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">Ghostscript</text>
+<rect x="340" y="468.0" width="380" height="152.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="530.0" y="529.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">cùng khuôn mẫu MEMFS cho</text>
+<text x="530.0" y="552.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">chuyển PDF/A và chuyển phông</text>
+<text x="530.0" y="575.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">thành đường nét</text>
+<rect x="740" y="468.0" width="380" height="152.0" rx="8.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="930.0" y="529.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">Mô-đun được lưu trong</text>
+<text x="930.0" y="552.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">cachedGsModule để tái sử dụng</text>
+<text x="930.0" y="575.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">giữa các lần gọi</text>
+<rect x="40" y="636.0" width="280" height="152.0" rx="16.0" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="180.0" y="709.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">Hệ tệp ảo Pyodide</text>
+<text x="180.0" y="734.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">của PyMuPDF</text>
+<rect x="340" y="636.0" width="380" height="152.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="530.0" y="697.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">Blob được nạp trực tiếp vào</text>
+<text x="530.0" y="720.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">Python; document.close() sau</text>
+<text x="530.0" y="743.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">mỗi thao tác</text>
+<rect x="740" y="636.0" width="380" height="152.0" rx="8.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="930.0" y="697.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">Bộ nạp giữ cachedPyMuPDF và</text>
+<text x="930.0" y="720.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">loadPromise để tránh khởi tạo</text>
+<text x="930.0" y="743.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">lại Pyodide</text>
+<rect x="40" y="804.0" width="280" height="152.0" rx="16.0" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="180.0" y="877.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">Canvas kết xuất</text>
+<text x="180.0" y="902.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">trang</text>
+<rect x="340" y="804.0" width="380" height="152.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="530.0" y="877.0" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">canvas.width = canvas.height =</text>
+<text x="530.0" y="900.0" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">0 ngay sau khi dùng xong</text>
+<rect x="740" y="804.0" width="380" height="152.0" rx="8.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="930.0" y="877.0" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">Áp dụng trong OCR, nén Photon,</text>
+<text x="930.0" y="900.0" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">PDF → ảnh, sinh ảnh thu nhỏ</text>
+<rect x="40" y="972.0" width="280" height="152.0" rx="16.0" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="180.0" y="1045.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">Đối tượng</text>
+<text x="180.0" y="1070.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">CoherentPDF</text>
+<rect x="340" y="972.0" width="380" height="152.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="530.0" y="1033.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">coherentpdf.deletePdf() cho</text>
+<text x="530.0" y="1056.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">mọi tài liệu đã nạp trong</text>
+<text x="530.0" y="1079.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">merge.worker.js</text>
+<rect x="740" y="972.0" width="380" height="152.0" rx="8.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="930.0" y="1033.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">Bộ nhớ WASM của cpdf không</text>
+<text x="930.0" y="1056.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">được thu gom tự động nên phải</text>
+<text x="930.0" y="1079.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">giải phóng tường minh</text>
+<rect x="40" y="1140.0" width="280" height="152.0" rx="16.0" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="180.0" y="1213.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">Chuyển quyền sở</text>
+<text x="180.0" y="1238.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">hữu bộ đệm</text>
+<rect x="340" y="1140.0" width="380" height="152.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="530.0" y="1201.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">postMessage(message,</text>
+<text x="530.0" y="1224.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">[transferable]) khi gửi dữ</text>
+<text x="530.0" y="1247.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">liệu sang Web Worker</text>
+<rect x="740" y="1140.0" width="380" height="152.0" rx="8.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="930.0" y="1201.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">Tránh nhân đôi bộ nhớ với tệp</text>
+<text x="930.0" y="1224.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">lớn; bộ đệm gốc trở nên không</text>
+<text x="930.0" y="1247.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">dùng được</text>
+<rect x="40" y="1308.0" width="280" height="152.0" rx="16.0" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="180.0" y="1393.5" font-size="22.0" text-anchor="middle" font-weight="700" fill="#7C2D12">Đối tượng URL tạm</text>
+<rect x="340" y="1308.0" width="380" height="152.0" rx="8.0" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="530.0" y="1381.0" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">URL.createObjectURL() luôn đi</text>
+<text x="530.0" y="1404.0" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0F172A">kèm URL.revokeObjectURL()</text>
+<rect x="740" y="1308.0" width="380" height="152.0" rx="8.0" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="930.0" y="1369.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">Dùng trong nhánh tải xuống của</text>
+<text x="930.0" y="1392.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">trình duyệt và khi xem trước</text>
+<text x="930.0" y="1415.5" font-size="20.0" text-anchor="middle" font-weight="400" fill="#0C4A6E">tài liệu</text>
+<text x="580" y="260.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#334155">Cơ chế</text>
+<text x="930" y="260.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#334155">Lý do và phạm vi áp dụng</text>
+<text x="180" y="260.0" font-size="22.0" text-anchor="middle" font-weight="700" fill="#334155">Vùng dữ liệu tạm</text>
+</svg>

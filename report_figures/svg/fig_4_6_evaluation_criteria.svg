@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1160" height="1595" viewBox="0 0 1160 1595" font-family="Arial,Helvetica,sans-serif">
+<defs>
+<marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#475569"/></marker>
+<marker id="arwd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DC2626"/></marker>
+<marker id="arwg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#059669"/></marker>
+<marker id="arwi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4F46E5"/></marker>
+<marker id="arwo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#EA580C"/></marker>
+<marker id="arwp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#DB2777"/></marker>
+<marker id="arwOpen" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="11.2" markerHeight="11.2" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#475569" stroke-width="1.4"/></marker>
+</defs>
+<rect width="1160" height="1595" fill="#FFFFFF"/>
+<path d="M 580.0 191.4 L 580.0 245.2 L 155.0 245.2 L 155.0 299.1" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 580.0 191.4 L 580.0 245.2 L 445.0 245.2 L 445.0 299.1" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 580.0 191.4 L 580.0 245.2 L 735.0 245.2 L 735.0 299.1" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<path d="M 580.0 191.4 L 580.0 245.2 L 1025.0 245.2 L 1025.0 299.1" fill="none" stroke="#4F46E5" stroke-width="1.6" marker-end="url(#arwi)"/>
+<rect x="430" y="79.75" width="300" height="111.64999999999999" rx="15.95" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2.56"/>
+<text x="580.0" y="132.6" font-size="25.91875" text-anchor="middle" font-weight="700" fill="#1E1B4B">Đánh giá PDF</text>
+<text x="580.0" y="161.5" font-size="25.91875" text-anchor="middle" font-weight="700" fill="#1E1B4B">Toolkit Desktop</text>
+<rect x="30" y="299.0625" width="250" height="111.64999999999999" rx="15.95" fill="#ECFDF5" stroke="#059669" stroke-width="2.56"/>
+<text x="155.0" y="351.9" font-size="23.924999999999997" text-anchor="middle" font-weight="700" fill="#064E3B">Tính đúng đắn</text>
+<text x="155.0" y="378.8" font-size="23.924999999999997" text-anchor="middle" font-weight="700" fill="#064E3B">chức năng</text>
+<rect x="30" y="438.625" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="155.0" y="486.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Tệp kết quả mở được</text>
+<text x="155.0" y="508.9" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">bằng trình đọc độc</text>
+<text x="155.0" y="531.8" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">lập</text>
+<rect x="30" y="578.1875" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="155.0" y="625.5" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Số trang và thứ tự</text>
+<text x="155.0" y="648.5" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">trang đúng như yêu</text>
+<text x="155.0" y="671.4" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">cầu</text>
+<rect x="30" y="717.75" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="155.0" y="765.1" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Bookmark và nhãn</text>
+<text x="155.0" y="788.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">trang được giữ khi</text>
+<text x="155.0" y="811.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">ghép</text>
+<rect x="30" y="857.3125" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="155.0" y="916.1" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Siêu dữ liệu thay</text>
+<text x="155.0" y="939.1" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">đổi đúng mong đợi</text>
+<path d="M 30 1008.8375 H 252.0875 L 280 1036.75 V 1188.275 H 30 Z" fill="#ECFDF5" stroke="#059669" stroke-width="1.4"/><path d="M 252.0875 1008.8375 V 1036.75 H 280" fill="none" stroke="#059669" stroke-width="2.56"/>
+<text x="155.0" y="1072.6" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#064E3B">Đo bằng kiểm thử</text>
+<text x="155.0" y="1095.6" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#064E3B">chức năng thủ</text>
+<text x="155.0" y="1118.5" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#064E3B">công + 641 ca</text>
+<text x="155.0" y="1141.4" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#064E3B">kiểm thử tự động</text>
+<rect x="320" y="299.0625" width="250" height="111.64999999999999" rx="15.95" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="445.0" y="351.9" font-size="23.924999999999997" text-anchor="middle" font-weight="700" fill="#7F1D1D">Bảo mật và</text>
+<text x="445.0" y="378.8" font-size="23.924999999999997" text-anchor="middle" font-weight="700" fill="#7F1D1D">quyền riêng tư</text>
+<rect x="320" y="438.625" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="445.0" y="486.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Không có yêu cầu</text>
+<text x="445.0" y="508.9" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">mạng khi dùng thao</text>
+<text x="445.0" y="531.8" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">tác lõi</text>
+<rect x="320" y="578.1875" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="445.0" y="625.5" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Mật khẩu và khoá</text>
+<text x="445.0" y="648.5" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">riêng không rời</text>
+<text x="445.0" y="671.4" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">khỏi bộ nhớ</text>
+<rect x="320" y="717.75" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="445.0" y="765.1" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Nội dung đã che</text>
+<text x="445.0" y="788.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">(redact) không phục</text>
+<text x="445.0" y="811.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">hồi được</text>
+<rect x="320" y="857.3125" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="445.0" y="904.6" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Đầu vào độc hại</text>
+<text x="445.0" y="927.6" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">không thực thi được</text>
+<text x="445.0" y="950.5" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">mã</text>
+<path d="M 320 1008.8375 H 542.0875 L 570 1036.75 V 1188.275 H 320 Z" fill="#FEF2F2" stroke="#DC2626" stroke-width="1.4"/><path d="M 542.0875 1008.8375 V 1036.75 H 570" fill="none" stroke="#DC2626" stroke-width="2.56"/>
+<text x="445.0" y="1072.6" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#7F1D1D">Đo bằng tab</text>
+<text x="445.0" y="1095.6" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#7F1D1D">Network, kiểm tra</text>
+<text x="445.0" y="1118.5" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#7F1D1D">tệp kết quả, 22</text>
+<text x="445.0" y="1141.4" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#7F1D1D">ca kiểm thử XSS</text>
+<rect x="610" y="299.0625" width="250" height="111.64999999999999" rx="15.95" fill="#FFF7ED" stroke="#EA580C" stroke-width="2.56"/>
+<text x="735.0" y="351.9" font-size="23.924999999999997" text-anchor="middle" font-weight="700" fill="#7C2D12">Hiệu năng và</text>
+<text x="735.0" y="378.8" font-size="23.924999999999997" text-anchor="middle" font-weight="700" fill="#7C2D12">tài nguyên</text>
+<rect x="610" y="438.625" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="735.0" y="486.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Thời gian xử lý</text>
+<text x="735.0" y="508.9" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">theo số trang và</text>
+<text x="735.0" y="531.8" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">kích thước tệp</text>
+<rect x="610" y="578.1875" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="735.0" y="637.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Mức bộ nhớ đỉnh khi</text>
+<text x="735.0" y="659.9" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">xử lý tài liệu lớn</text>
+<rect x="610" y="717.75" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="735.0" y="776.6" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Giao diện còn phản</text>
+<text x="735.0" y="799.5" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">hồi trong khi xử lý</text>
+<rect x="610" y="857.3125" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="735.0" y="916.1" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Thời gian khởi động</text>
+<text x="735.0" y="939.1" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">và nạp mô-đun WASM</text>
+<path d="M 610 1008.8375 H 832.0875 L 860 1036.75 V 1188.275 H 610 Z" fill="#FFF7ED" stroke="#EA580C" stroke-width="1.4"/><path d="M 832.0875 1008.8375 V 1036.75 H 860" fill="none" stroke="#EA580C" stroke-width="2.56"/>
+<text x="735.0" y="1084.1" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#7C2D12">CHƯA ĐO — cần</text>
+<text x="735.0" y="1107.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#7C2D12">chạy trên máy có</text>
+<text x="735.0" y="1130.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#7C2D12">giao diện đồ hoạ</text>
+<rect x="900" y="299.0625" width="250" height="111.64999999999999" rx="15.95" fill="#E0F2FE" stroke="#0284C7" stroke-width="2.56"/>
+<text x="1025.0" y="351.9" font-size="23.924999999999997" text-anchor="middle" font-weight="700" fill="#0C4A6E">Khả dụng và</text>
+<text x="1025.0" y="378.8" font-size="23.924999999999997" text-anchor="middle" font-weight="700" fill="#0C4A6E">triển khai</text>
+<rect x="900" y="438.625" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="1025.0" y="497.4" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Chạy được hoàn toàn</text>
+<text x="1025.0" y="520.4" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">ngoại tuyến</text>
+<rect x="900" y="578.1875" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="1025.0" y="637.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Cài đặt được trên</text>
+<text x="1025.0" y="659.9" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">ba hệ điều hành</text>
+<rect x="900" y="717.75" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="1025.0" y="765.1" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Giao diện tiếng</text>
+<text x="1025.0" y="788.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Việt đầy đủ và nhất</text>
+<text x="1025.0" y="811.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">quán</text>
+<rect x="900" y="857.3125" width="250" height="123.6125" rx="7.975" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2.56"/>
+<text x="1025.0" y="904.6" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">Thông báo lỗi rõ</text>
+<text x="1025.0" y="927.6" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">ràng, có hướng khắc</text>
+<text x="1025.0" y="950.5" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0F172A">phục</text>
+<path d="M 900 1008.8375 H 1122.0875 L 1150 1036.75 V 1188.275 H 900 Z" fill="#E0F2FE" stroke="#0284C7" stroke-width="1.4"/><path d="M 1122.0875 1008.8375 V 1036.75 H 1150" fill="none" stroke="#0284C7" stroke-width="2.56"/>
+<text x="1025.0" y="1084.1" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0C4A6E">Đo bằng danh sách</text>
+<text x="1025.0" y="1107.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0C4A6E">kiểm tra khói và</text>
+<text x="1025.0" y="1130.0" font-size="19.9375" text-anchor="middle" font-weight="400" fill="#0C4A6E">ma trận CI</text>
+<rect x="30" y="1395.625" width="1120" height="163.58749999999998" rx="15.95" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.56"/>
+<text x="590.0" y="1424.6" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D">Quy ước trình bày kết quả trong Chương 4</text>
+<text x="590.0" y="1449.5" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D"></text>
+<text x="590.0" y="1474.4" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D">Tiêu chí đã có bằng chứng trực tiếp từ mã nguồn hoặc cấu hình được trình bày kèm</text>
+<text x="590.0" y="1499.4" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D">dẫn chứng tệp và dòng lệnh. Tiêu chí cần đo trên ứng dụng đang chạy được ghi rõ là</text>
+<text x="590.0" y="1524.3" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D">CHƯA ĐO, kèm phương pháp đo đề xuất; báo cáo không đưa ra bất kỳ con số ước lượng</text>
+<text x="590.0" y="1549.2" font-size="21.93125" text-anchor="middle" font-weight="400" fill="#7F1D1D">nào cho các tiêu chí này.</text>
+</svg>
